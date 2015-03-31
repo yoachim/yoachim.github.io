@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'How to Lie With Statistics:  Part I'
+date: 2013-08-06 03:31:18.000000000 -07:00
+categories: []
+tags:
+- Darrell Huff
+- data
+- Gun violence
+- How to Lie with Statistics
+- Mother Jones
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '49766036'
+  geo_public: '0'
+  _publicize_pending: '1'
+author:
+  login: pyoachim
+  email: pyoachim@gmail.com
+  display_name: pyoachim
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Darrell Huff's <a href="http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=sr_1_1?ie=UTF8&amp;qid=1375330032&amp;sr=8-1&amp;keywords=how+to+lie+with+statistics">How To Lie With Statistics</a> is one of my all-time favorite books. The only problem with it is that it has become a bit dated (you have to calculate inflation on the fly to make sense of a lot of his examples involving money). Since people are still abusing statistics and data visualization today, I thought it would be fun to have some posts pointing out modern examples.</p>
+<p>Today's deceptive abuse of data comes from this <a href="http://www.motherjones.com/politics/2013/03/state-map-gun-suicides-traffic-deaths">Mother Jones article</a>, which in turn was inspired by this <a href="http://www.bloomberg.com/news/2012-12-19/american-gun-deaths-to-exceed-traffic-fatalities-by-2015.html">Bloomberg</a> article. The quick summary is that gun-related deaths are projected to exceed traffic-related deaths. The Mother Jones article then follows up to point out that this has already happened in several states. Shock! Horror!</p>
+<p>Here's the super sneaky plot from Bloomberg.</p>
+<p><a href="http://www.bloomberg.com/image/i3cs6F7hTHkc.jpg"><img class="alignnone" alt="" src="/assets/i3cs6F7hTHkc.jpg" width="620" height="413" /></a><br />
+The tricks here. 1) The y-axis is cropped, making the trends appear larger. It looks like the firearms deaths per year has crossed 30,000 6 times. One could easily say that the number of firearm deaths has stayed <strong>constant</strong> over the last 30 years. 2) The real trick is that they are plotting <strong>raw numbers rather than per capita</strong>. For example, it looks like there were 30,000 firearm deaths in 1983 and again in 2005. But the US population grew by 57 million people in that time! If you sampled 10,000 random Americans in 1983, 13 of them would be killed by firearms. But grabbing 10,000 Americans in 2005, only 10 would get killed by firearms. Despite the curve looking like it's going up, you are actually safer from gun violence today than compared to just a few years ago.</p>
+<p>Note the phrase "set to pass". It makes you think gun deaths are going up, so you are getting less safe. Really, the title should be "gun violence dropping at a slightly slower rate than traffic fatalities, which are also decreasing". But that doesn't sound scary and sell magazines. Or get web clicks, or whatever these guys do to generate revenue.</p>
+<p>[caption id="attachment_126" align="alignnone" width="630"]<a href="https://pyoachim.files.wordpress.com/2013/08/dpery.png"><img class="size-large wp-image-126" alt="Here's a more honest plot of the data, looking at things per capita. " src="/assets/dpery.png" width="630" height="475" /></a> Here's a more honest plot of the data, looking at things per capita.[/caption]</p>
+<p>[caption id="attachment_127" align="alignnone" width="630"]<a href="https://pyoachim.files.wordpress.com/2013/08/ghompy.png"><img class="size-large wp-image-127" alt="Looking at just firearm homicides (no not including suicides and accidents), There's a HUGE drop over the last 20 years. Umm, no one really knows why this happened." src="/assets/ghompy.png" width="630" height="475" /></a> Looking at just firearm homicides (so not including suicides and accidents), There's a HUGE drop over the last 20 years. Umm, no one really knows why this happened.[/caption]</p>
+<p>It's like your had Joe at 290 lbs on a diet and Emily at 250 lbs on a diet. After 6 months, Joe is down to 220 lb (-70 lb) and Emily has dropped to 210 (-40 lb). Would you say Emily's weight is "set to pass" Joe's? I wouldn't recommend it since Emily has been working out and can still throw a solid punch at 210.</p>
+<p>Inspired by Bloomberg's crappy plot, Mother Jones jumped in and pointed out that several states had "<a href="http://www.motherjones.com/politics/2013/03/state-map-gun-suicides-traffic-deaths">already hit this grisly milestone</a>". Look, they made a handy map:</p>
+<p><a href="http://www.motherjones.com/politics/2013/03/state-map-gun-suicides-traffic-deaths"><img class="alignnone size-medium wp-image-120" alt="Screen Shot 2013-07-31 at 9.11.37 PM" src="/assets/screen-shot-2013-07-31-at-9-11-37-pm.png" width="413" height="356" /></a><br />
+WOW, that makes it look like the west coast has a huge problem! Gun deaths have surged ahead of traffic deaths in lots of states. But I lived in Texas. Things I know about Texans, 1) they have a lot of guns, and 2) they can't drive for shit. Seriously, the fire hydrant outside my apartment got obliterated 3 times! And I only lived there for two years.</p>
+<p><a href="https://pyoachim.files.wordpress.com/2013/08/auto_rate.png"><img class="alignnone size-large wp-image-130" alt="auto_rate" src="/assets/auto_rate.png" width="630" height="472" /></a> <a href="https://pyoachim.files.wordpress.com/2013/08/both.png"><img class="alignnone size-large wp-image-131" alt="both" src="/assets/both.png" width="630" height="472" /></a> <a href="https://pyoachim.files.wordpress.com/2013/08/gun_rate.png"><img class="alignnone size-large wp-image-132" alt="gun_rate" src="/assets/gun_rate.png" width="630" height="472" /></a> <a href="https://pyoachim.files.wordpress.com/2013/08/homicides.png"><img class="alignnone size-large wp-image-133" alt="homicides" src="/assets/homicides.png" width="630" height="472" /></a></p>
+<p>The lessons we can take away from these maps:</p>
+<ol>
+<li>Wyoming looks like it has a car problem</li>
+<li>Louisiana has a murdering-people-with-guns problem</li>
+<li>The west coast is one of the safer places when it comes to both driving and not getting shot.</li>
+<li>You can't see Alaska, but take my word for it that it has average gun homicide, but lots of gun deaths. This is driven by Alaska having nearly double the suicide rate of the US average.</li>
+</ol>
+<p>Comparing my maps with the Mother Jones one, the only commonality seems to be Louisiana, where there are in fact a surprisingly large number of gun deaths. The rest of the states they shade a dangerous-looking brown are all on the safer side.</p>
+<p>If they are going to make silly maps, I'm going to go ahead and show them how to really mis-interpret data. Well, we see that car deaths are dropping faster than gun deaths. Clearly, we need to take the lessons we've learned from cars and apply them to guns. From now on, all guns shall come with airbags, crumple zones, and rear defrosters. The next step in car safety will probably be the move to <a href="http://en.wikipedia.org/wiki/Google_driverless_car">automated driverless cars</a>. The same should be done with guns! Google will start making a shooterless gun--you just wave it around and advanced algorithms developed in the Stanford CS department will decide when to actually fire.</p>
+<p>The real crime here is that this data is telling us some interesting stories, and raising lots of cool questions. But rather than address those, the authors bend the data to make some scare-stats. Things I see in the data:</p>
+<ul>
+<li>wow, traffic deaths have dropped like a rock! There's clearly been a ton of useful technology invented (anti-lock brakes, airbags, crumple zones, power steering, on and on). Check out this cool video of a <a href="http://www.youtube.com/watch?v=joMK1WZjP7g">'59 Chevy doing a head-on with a 2009 Chevy</a>. The dummy in the '09 maybe breaks a leg, the '59 dummy is killed instantly. There's also things like seat-belt laws, anti-DUI adds, stricter rules on teen drivers, continually <a href="http://www.foxnews.com/story/0,2933,490940,00.html">upgrading the deadliest roads</a>. Lots of work has gone into making driving safer, and at least some of it works.</li>
+<li>There's a huge drop in auto deaths starting around 2007. Is that a result of the economic crash? Did people switch to the bus since they couldn't afford their cars? Did they just drive on fewer vacations? Do you just not drive much if you don't have to go to work? Should I be concerned that while the stock market has recovered, it doesn't look like people have gone back to driving (i.e., this has been a jobless, and thus comuteless, recovery)?</li>
+<li>The "tall pole" in gun violence is actually suicides. Hey, let's make sure everyone has access to mental health care. Seriously, be on the lookout for folks suffering from depression.</li>
+<li>While there are lots of reasons for driving being safer, <em>the drop in gun violence is actually an amazing mystery</em>. It doesn't look like violent crime is driven by the economy or police policies. Ironically, an excellent Mother Jones article makes a strong case that <a href="http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline">lead exposure is responsible for violent crime rates</a>.</li>
+</ul>
+<p>And, obligatory XKCDs:</p>
+<p><a href="http://xkcd.com/1138/"><img class="alignnone" alt="" src="/assets/heatmap.png" width="500" height="542" /></a></p>
+<p>How I feel after writing this post:</p>
+<p><a href="http://xkcd.com/386/"><img class="alignnone" alt="" src="/assets/duty_calls.png" width="300" height="330" /></a></p>

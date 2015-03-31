@@ -1,0 +1,45 @@
+---
+layout: post
+title: Dominant Tennis Players Over Time
+date: 2014-07-15 06:02:45.000000000 -07:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '49766036'
+  geo_public: '0'
+  _publicize_pending: '1'
+author:
+  login: pyoachim
+  email: pyoachim@gmail.com
+  display_name: pyoachim
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>As usual, I was starting my day with XKCD, when I read this gem:</p>
+<p><a href="http://imgs.xkcd.com/comics/dominant_players_large.png"><img class="aligncenter" src="/assets/dominant_players_large.png" alt="" width="717" height="462" /></a></p>
+<p>This is great and all, but why isn't there a panel for tennis players? After all, they have a ranking system that makes it pretty easy to see who the dominant player is at any given time. First, I was stoked to go plot it, then I was bummed because it wouldn't look as cool as the XKCD plot. But then I remembered that <a href="http://jakevdp.github.io/">Jake</a>, being a scholar and a gentleman, wrote code to make <a href="http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/">XKCD-style plots with matplotlib! </a></p>
+<p>Thus, I proudly present the men's tennis dominant players over time, XKCD style:<br />
+<a href="https://pyoachim.files.wordpress.com/2014/07/atp_plot1.png"><img class="alignnone size-large wp-image-183" src="/assets/atp_plot1.png" alt="atp_plot" width="630" height="315" /></a></p>
+<p>Some notes about how I made the plot:</p>
+<ul>
+<li>I only scraped data for the top 100 players (<a href="http://www.atpworldtour.com/Rankings/Singles.aspx">from here</a>).</li>
+<li>I'm only including players who held the #1 ranking for at least 52 weeks (need not be consecutive). So no Patrick Rafter (who was number 1 for only one week).</li>
+<li>Starting in 1990, I have listings for the actual point values in the rankings, so I gave the top ranked players a bonus based on their lead over the #2 ranked player. The top players rank was computed as 2-points_1/points_2. So if the top player has double the points of the #2 ranked player, I would plot them at zero.</li>
+<li>I truncated the curves at the spot where players played their last match (they are still technically ranked after that, but the curves just decay away).</li>
+<li>Player names start at the point where they first reached a #1 ranking</li>
+</ul>
+<p>Some cool things you can see in the plot:</p>
+<ul>
+<li>Agassi rose to #1 from being out of the top 10 <strong>THREE TIMES</strong>.</li>
+<li>Lleyton Hewitt has had an amazingly long (but not particularly impressive) post-number 1 career. But he did <a href="http://espn.go.com/tennis/story/_/id/11211590/lleyton-hewitt-wins-hall-fame-title-third-attempt">just win a tourney</a>.</li>
+<li>Nadal SHOT up to the #2 spot, and then was just parked behind Fed for a looong time.</li>
+<li>Sampras and Edberg both managed to stop playing ranked #14. The rest dropped out of the top 20.</li>
+<li>Sampras was the only one to finish on a win (The US Open).</li>
+<li>Federer wasn't just #1 for a long time, he was #1 with a huge points lead for a long time.</li>
+</ul>
+<p>Next up, I clearly need to plot the women. I'd like to do both singles and doubles to show Martina dominating both simultaneously. If I get motivated I'll put the code on github in the hopes that someone else will help beautify it a bit more.</p>
