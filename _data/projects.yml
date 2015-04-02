@@ -1,0 +1,21 @@
+
+- Name: LSST Sky Background
+  Image: ack1.png
+  Caption: here's some caption text
+  repoLink: http://github.com
+  Text: >
+    blah blah blah.
+
+- Name: Giant Low Surface Brightness Galaxies
+  Image: glsb.png
+  Caption: here's a fancy pic of a GLSB galaxy
+  repoLink: http://github.com
+  Text: >
+    blah **blah** blah.
+
+- Name: PyEmoji
+  Image: emoji.png
+  Caption: Because I can
+  repoLink: https://github.com/yoachim/pyemoji
+  Text: >
+    Because I couldn't find a decent english 2 emoji translator, I wrote my own.
