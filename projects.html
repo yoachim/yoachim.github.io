@@ -9,11 +9,11 @@ title: Projects
 
 
     {{ project.Text | markdownify }}
+    <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300"></a>
 
-    <img scr="/assets/{{ project.Image }}">
     {{ project.Caption | markdownify }}
-
-    <a href="{{ project.repoLink }}">fork it here!</a>
+    {{ project.repoLink | markdownify }}
+    
   </article>
   {% endfor %}
 </div>

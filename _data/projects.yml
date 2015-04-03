@@ -9,7 +9,8 @@
 - Name: Giant Low Surface Brightness Galaxies
   Image: glsb.png
   Caption: here's a fancy pic of a GLSB galaxy
-  repoLink: http://github.com
+  repoLink: >
+    [fork it here](http://github.com)
   Text: >
     blah **blah** blah.
 
@@ -19,3 +20,17 @@
   repoLink: https://github.com/yoachim/pyemoji
   Text: >
     Because I couldn't find a decent english 2 emoji translator, I wrote my own.
+
+- Name: Satellite Galaxies
+  Image: M106.jpg
+  Caption: SDSS image of M106 from [this great gallery](http://cosmo.nyu.edu/hogg/rc3/).
+  repoLink: " "
+  Text: >
+    Satellite galaxies are neato.
+
+- Name: Thick Disks
+  Image: thick_disk.png
+  Caption: B-R image of an edge-on disk galaxy
+  repoLink: " "
+  Text: >
+    This is what I did my thesis work on.
