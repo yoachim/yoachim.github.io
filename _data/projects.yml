@@ -6,6 +6,13 @@
   Text: >
     blah blah blah.
 
+- Name: LSST Scheduler Analysis
+  Image: maf.png
+  Caption: how well LSST will measure X over the course of a 10 year survey
+  repoLink: " "
+  Text: >
+    I've been working with the Opsim group to blah blah
+
 - Name: Giant Low Surface Brightness Galaxies
   Image: glsb.png
   Caption: here's a fancy pic of a GLSB galaxy
@@ -13,6 +20,21 @@
     [fork it here](http://github.com)
   Text: >
     blah **blah** blah.
+
+- Name: LSST Photometric Uber-Calibration
+  Image: ubercal.png
+  Caption: ubercal is cool
+  repoLink: " "
+  Text: >
+    fun with ubercal.
+
+- Name: Astronomer Hiring Network
+  Image: paperNetwork.png
+  Caption: My paper network from ADS
+  repoLink: >
+    [Fork it here!](https://github.com/yoachim/AstroHireNetwork)
+  Text: >
+    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  
 
 - Name: PyEmoji
   Image: emoji.png
@@ -27,6 +49,21 @@
   repoLink: " "
   Text: >
     Satellite galaxies are neato.
+
+- Name: Stellar Radial Migration
+  Image: radialMigration.png
+  Caption: A plot of the
+  repoLink: " "
+  Text: >
+    Used VIRUS-P to observe a bunch of nearby galaxies 
+
+- Name: Cepheid Variables
+  Image: cephLC.png
+  Caption: light curves from xxx et al
+  repoLink: " "
+  Text: >
+    I had some fun making Cephied light curve templates.  Unfortunatly, I wrote it all in IDL. It would be great if someone wanted to port this over to python!
+    XXX-add links to papers.
 
 - Name: Thick Disks
   Image: thick_disk.png

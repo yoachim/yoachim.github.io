@@ -7,13 +7,19 @@ title: Projects
   <article class="post">
     <h1 class"post-title"> {{project.Name}} </h1>
 
+    <table bgcolor="white">
+      <col width="70%">
+      <col width="30%">
+      <tr>
+	<td> {{ project.Text | markdownify }} </td>
+	<td>
+	  <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300"></a> 
 
-    {{ project.Text | markdownify }}
-    <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300"></a>
-
-    {{ project.Caption | markdownify }}
-    {{ project.repoLink | markdownify }}
-    
+	  {{ project.Caption | markdownify }}
+	  {{ project.repoLink | markdownify }}
+	</td>
+      </tr>
+    </table>
   </article>
   {% endfor %}
 </div>
