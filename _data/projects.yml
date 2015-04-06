@@ -37,11 +37,11 @@
     I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  
 
 - Name: PyEmoji
-  Image: emoji.png
+  Image: emojiScreen.png
   Caption: Because I can
   repoLink: https://github.com/yoachim/pyemoji
   Text: >
-    Because I couldn't find a decent english 2 emoji translator, I wrote my own.
+    The sheer absurdity of emoji amuses me.  I couldn't find a decent english 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
 
 - Name: Satellite Galaxies
   Image: M106.jpg
