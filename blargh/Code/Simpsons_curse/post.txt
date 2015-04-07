@@ -1,0 +1,74 @@
+
+#head banned from http://www.urbanfonts.com/fonts/simpsons_font.htm
+
+There are two types of Gen-Xers, those that can quote a Seinfeld reference for any occasion, and those that can quote a Simpsons line for any occasion.  I happen to be a Simpsons Gen-Xer. (The other great inter-generational schizm is if The Joshua Tree or Achtung Baby! is U2's greatest album** The correct answer is Achtung Baby!).
+
+Over the years the Simpsons have had numerous celebrity guests.  A shocking statistic is that 57 of those guests have died after appearing on the Simpsons.  Upon seeing that I thought, "Wow, that's a surprisingly large number of dead celebrities!", followed shortly by, "How can we get the Kardashians to appear on the Simpsons?"
+
+Of course, 57 deaths doesn't sound nearly as shocking when you consider the show has been going for 24 seasons and featured over 570 guests.  But I thought it would be fun to see how many celebrity deaths we would expect from the Simpsons.  Is there a "Curse of the Simpsons", or something else?
+
+Wikipedia has a handy list of all the Simpsons' guest stars http://en.wikipedia.org/wiki/List_of_The_Simpsons_guest_stars.  Wikipedia also has a handy standardized format for listing a persons birth and death date, so I just wrote a python script to grab all the info and ended up with a list of names, birth year, death year, and season they appeared on the show.  Next up, I grabbed an actuarial table from the US government and made a table of death probabilities for each guest star each year.  Finally, run a little Monte Carlo simulation and see how many guests die on average each year.  
+
+
+
+1)  Pull the list of celebrities from wikipedia
+2)  For each celeb, grab their birth year (and possibly death year) from wikipedia.  
+3) use an actuarial table to compute the probability of each celebrity dying each year after they 1st appeared on the Simpsons.
+http://www.ssa.gov/oact/STATS/table4c6.html#fn1
+4) generate some random numbers (i.e. run a monte carlo simulation)
+5) 
+
+I made a graph.  I make lots of graphs.
+http://flowingdata.com/2008/06/20/lisa-simpson-on-happiness-vs-intelligence/
+
+
+What do we see?  Well, that initial shock at so many dead celebrity guests should actaully be shock that there aren't many more dead celebrities!  Using the actuarial table, we would have expected 26 more celebrities to have died.  
+
+We have a group of people dominated by men, but they seem to be living about 3 years longer than expected.  Because I was lazy, I used the actuarial table for men.  If I use the values for women, it results in a pretty good fit.  
+
+http://money.usnews.com/money/personal-finance/articles/2012/02/14/do-rich-people-live-longer
+
+
+As a sanity check of the code, I looked to see how many surviving Beatles there were (George, Paul, and Ringo have all been guest voices).  In 44% of the sims, all three survived, but in 42% at least one died (matching reality, Paul and Ringo are currently the only surviving Beatles), and 13% of the time 2 had died.  Finally, there was a 1% chance of having no surviving Beatles in 2013!   (I am the eggman image of eggy from stonecutters episode)  
+
+
+obligatory xkcd:
+http://xkcd.com/493/
+http://xkcd.com/893/
+
+----------------
+number of celebrities = 572
+number that have died = 57
+reading table
+Dead M expected = 83
+number of celebrities = 572
+number that have died = 57
+Dead F expected = 61
+
+
+
+#trimmed down the html list, then
+grep http List_of_The_Simpsons_guest_stars_edited.html > links.txt
+ awk '!/season/' links.txt > links_trimmed.txt
+manual search replace in emacs
+replacing " is a pain, just replace to ackack in emacs
+then 
+paste guests.dat links_trimmed.txt > simpsons.dat
+
+need to replace the bands with the actual individuals still.
+
+
+-----------
+
+tweets:
+
+57 celebrities have been killed by The Curse of @TheSimpsons!  Will @justinbieber be next?  #BELIEBERS #simpsons http://bit.ly/17vPuWy
+
+Johnnies Cash, Carson, Ramone, and Unitas all appeared on @TheSimpsons, then DIED. The Curse of @TheSimpsons blargh post 
+
+
+57 celebrities have been killed by The Curse of The Simpsons!  I explore the grisley details in a new blargh post.   I'll just tag all the super Simpsons fans now -- Tim Fill, Mellisa Chow, Ryan Hawkinson, Jim Davenport, Tim, C
+
+http://pyoachim.wordpress.com/2013/05/15/the-curse-of-the-simpsons/
+
+http://bit.ly/17vPuWy

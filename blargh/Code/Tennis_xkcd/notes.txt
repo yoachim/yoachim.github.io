@@ -1,0 +1,10 @@
+xkcd did some cool plots looking at chess and NBA player rankings over time.  Now, this should be super easy to do for tennis since the rankings are published!
+
+Cool things to note:
+* Agassi rose to #1 from being out of the top 10 THREE TIMES
+* Lleyton Hewitt has had an amazingly long post-number 1 career
+* Nadal SHOT up to the #2 spot, and then was just parked behind Fed for a looong time.
+* Sampras and Edberg both managed to stop playing ranked #14. 
+* Sampras was the only one to finish on a win (The US Open).
+* The right hand side looks kind of clean, but that's just a selection effect since we don't know who will be #1 in the future.  We've had 11 dominant players in the last 37 years, so there should be a new dominant player coming up the rankings every ~3-4 years, and the last was Djokovic in 2007.  
+

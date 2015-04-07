@@ -1,0 +1,23 @@
+Grab the birthdates for all the current NBA players
+
+http://www.nba.com/players/
+
+perl -p -i -e "s/\".*//g"  playerfile.html
+
+
+http://www.ibtimes.com/nhl-drafts-birthday-bias-could-shortchange-some-hockey-players-study-1106512
+
+http://www.sportsscientists.com/2009/01/matthew-effect.html
+
+
+hmmm--it might turn out that "white" sports have a big age-effect, while "black" sports don't.  That would be kinda cool.
+
+
+perl -p -i -e 's/.*USA//g' USA_boys_trimmed.dat
+
+
+http://en.wikipedia.org/wiki/Relative_age_effect
+
+http://www.itatennis.com/Page3508.aspx
+
+http://www.itftennis.com/juniors/rankings/player-rankings.aspx

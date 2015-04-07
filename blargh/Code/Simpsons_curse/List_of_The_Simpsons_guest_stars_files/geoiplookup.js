@@ -1,0 +1,1 @@
+Geo = {"city":"Seattle","country":"US","lat":"47.606201","lon":"-122.332100","IP":"50.132.100.230","netmask":"24"}

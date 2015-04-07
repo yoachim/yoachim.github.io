@@ -1,0 +1,500 @@
+        1 	KONJUH, Ana 	0 	 CRO 	27 Dec 1997 	14 	1205.00
+	2 	SINIAKOVA, Katerina 	0 	 CZE 	10 May 1996 	22 	1191.25
+	3 	LOTTNER, Antonia 	0 	 GER 	13 Aug 1996 	17 	863.75
+	4 	BENCIC, Belinda 	+2 	 SUI 	10 Mar 1997 	20 	847.50
+	5 	ABANDA, Francoise 	-1 	 CAN 	05 Feb 1997 	18 	807.50
+	6 	FLINK, Varvara 	-1 	 RUS 	13 Dec 1996 	28 	795.00
+	7 	MERTENS, Elise 	0 	 BEL 	17 Nov 1995 	36 	711.25
+	8 	GIANGRECO CAMPIZ, Camila 	+7 	 PAR 	24 Aug 1996 	25 	693.75
+	9 	KONTAVEIT, Anett 	-1 	 EST 	24 Dec 1995 	11 	690.00
+	10 	HSU, Ching-Wen 	-1 	 TPE 	19 Aug 1996 	27 	687.50
+	11 	TOWNSEND, Taylor 	-1 	 USA 	16 Apr 1996 	12 	678.75
+	12 	MAKAROVA, Christina 	-1 	 USA 	29 May 1996 	36 	676.25
+	13 	KREJCIKOVA, Barbora 	+5 	 CZE 	18 Dec 1995 	25 	665.00
+	14 	OSTAPENKO, Jelena 	0 	 LAT 	08 Jun 1997 	20 	661.25
+	15 	ZHAO, Carol 	-2 	 CAN 	20 Jun 1995 	25 	653.75
+	16 	UBERALOVA, Petra 	-4 	 SVK 	11 Apr 1995 	20 	638.75
+	17 	SOYLU, Ipek 	-1 	 TUR 	15 Apr 1996 	27 	637.50
+	18 	STOJANOVIC, Nina 	-1 	 SRB 	30 Jul 1996 	32 	637.50
+	19 	KENNEL, Karin 	0 	 SUI 	05 Jul 1995 	13 	610.00
+	20 	VEGA, Constanza 	0 	 ARG 	24 Sep 1995 	24 	607.50
+	21 	KULICHKOVA, Elizaveta 	0 	 RUS 	12 Apr 1996 	19 	602.50
+	22 	KASATKINA, Darya 	+3 	 RUS 	07 May 1997 	22 	590.00
+	23 	DUNNE, Katy 	-1 	 GBR 	16 Feb 1995 	30 	588.75
+	24 	KUDERMETOVA, Veronika 	+6 	 RUS 	24 Apr 1997 	30 	567.50
+	25 	PLOSKINA, Helen 	+1 	 UKR 	20 Apr 1997 	23 	557.50
+	26 	RODRIGUEZ, Victoria 	-3 	 MEX 	22 Apr 1995 	27 	547.50
+	27 	DUCU, Ioana 	-3 	 ROU 	18 Apr 1996 	21 	543.75
+	28 	CISNEROS, Alejandra 	-1 	 MEX 	18 Apr 1995 	25 	531.25
+	29 	BOULTER, Katie 	-1 	 GBR 	01 Aug 1996 	35 	530.00
+	30 	VICKERY, Sachia 	-1 	 USA 	11 May 1995 	14 	527.50
+	31 	HADDAD MAIA, Beatriz 	0 	 BRA 	30 May 1996 	22 	510.00
+	32 	CRAWFORD, Samantha 	0 	 USA 	18 Feb 1995 	2 	507.50
+	33 	HAAS, Barbara 	+5 	 AUT 	19 Mar 1996 	24 	497.50
+	34 	FERRO, Fiona 	-1 	 FRA 	12 Mar 1997 	28 	496.25
+	35 	PARAZINSKAITE, Akvile 	+1 	 LTU 	29 Nov 1996 	23 	495.00
+	36 	MARFUTINA, Maria 	-2 	 RUS 	06 Jun 1997 	26 	491.25
+	37 	MATTEUCCI, Alice 	+8 	 ITA 	29 Sep 1995 	33 	486.25
+	38 	BOUZKOVA, Marie 	-1 	 CZE 	21 Jul 1998 	22 	483.75
+	39 	CSOREGI, Ilka 	-4 	 ROU 	12 Apr 1996 	24 	472.50
+	40 	IP, Katherine 	0 	 HKG 	17 Sep 1995 	28 	471.25
+	41 	GONZALEZ, Domenica 	0 	 ECU 	12 Feb 1996 	26 	470.00
+	42 	LOEB, Jamie 	-3 	 USA 	08 Mar 1995 	18 	461.25
+	43 	PANTUCKOVA, Gabriela 	+4 	 CZE 	10 Feb 1995 	25 	461.25
+	44 	UCROS, Laura 	-1 	 COL 	13 Jun 1995 	32 	460.00
+	45 	SAMIR, Sandra 	+1 	 EGY 	04 Nov 1997 	36 	455.00
+	46 	XU, Shilin 	-4 	 CHN 	10 Jan 1998 	24 	455.00
+	47 	LUSHKOVA, Viktoriya 	+11 	 UKR 	17 Aug 1996 	28 	451.25
+	48 	DANILINA, Anna 	+1 	 KAZ 	20 Aug 1995 	12 	447.50
+	49 	OKUNO, Ayaka 	-5 	 JPN 	21 Jun 1995 	21 	443.75
+	50 	LEKAJ, Adrijana 	0 	 CRO 	29 Jun 1995 	20 	440.00
+	51 	YAMAMOTO, Hikari 	0 	 JPN 	05 Oct 1995 	26 	437.50
+	52 	RENAUD, Johnnise 	0 	 USA 	10 May 1996 	26 	437.50
+	53 	ALVES, Carolina Meligeni Rodrigues 	0 	 BRA 	23 Apr 1996 	30 	436.25
+	54 	KOMARDINA, Anastasiya 	-6 	 RUS 	08 Jul 1997 	27 	430.00
+	55 	BUAYAM, Kamonwan 	-1 	 THA 	15 Feb 1996 	26 	427.50
+	56 	SCHMIEDLOVA, Kristina 	+20 	 SVK 	06 Aug 1997 	23 	426.25
+	57 	TOMIC, Sara 	-2 	 AUS 	05 Feb 1998 	31 	423.75
+	58 	CHIRICO, Louisa 	-2 	 USA 	16 May 1996 	15 	422.50
+	59 	ROSCA, Ioana Loredana 	-2 	 ROU 	20 Sep 1996 	22 	413.75
+	60 	SILICH, Alina 	+1 	 RUS 	10 Jul 1996 	17 	412.50
+	61 	SUN, Ziyue 	+8 	 CHN 	06 Jul 1996 	22 	406.25
+	62 	SHYMANOVICH, Iryna 	-2 	 BLR 	30 Jun 1997 	21 	405.00
+	63 	KALININA, Anhelina 	+3 	 UKR 	07 Feb 1997 	13 	400.00
+	64 	DAIR, Asiya 	-2 	 KAZ 	25 Jan 1996 	42 	398.75
+	65 	AKKERMAN, Marika 	-2 	 CAN 	07 Nov 1995 	48 	390.00
+	66 	LOMBARDO, Beatrice 	+4 	 ITA 	15 Feb 1996 	20 	386.25
+	67 	ADACHI, Mami 	-3 	 JPN 	18 Mar 1996 	25 	385.00
+	68 	HIBI, Mayo 	-3 	 JPN 	03 Apr 1996 	7 	383.75
+	69 	PETIT, Stephanie Mariel 	-2 	 ARG 	25 Aug 1996 	30 	381.25
+	70 	ROUTLIFFE, Erin 	-11 	 CAN 	11 Apr 1995 	28 	377.50
+	71 	KIICK, Allie 	0 	 USA 	30 Jun 1995 	12 	375.00
+	72 	WALLACE, Isabelle 	0 	 GBR 	07 Sep 1996 	34 	375.00
+	73 	LODIKOVA, Daria 	0 	 RUS 	25 May 1996 	32 	375.00
+	74 	DART, Harriet 	0 	 GBR 	28 Jul 1996 	40 	372.50
+	75 	KIRO, Lynn 	0 	 RSA 	06 Aug 1995 	15 	371.25
+	76 	PAIRONE, Giulia 	+1 	 ITA 	21 Jan 1996 	21 	365.00
+	77 	REDDY, Snehadevi S 	+1 	 IND 	13 Feb 1997 	16 	362.50
+	78 	BLACK, Tornado Alicia 	+7 	 USA 	12 May 1998 	20 	358.75
+	79 	OLIVARES LOPEZ, Macarena 	0 	 CHI 	28 Dec 1995 	25 	358.75
+	80 	PEREZ, Ellen 	0 	 AUS 	10 Oct 1995 	15 	355.00
+	81 	MIKULSKYTE, Justina 	+16 	 LTU 	06 Feb 1996 	32 	351.25
+	82 	HATTINGH, Ilze 	-1 	 RSA 	22 Apr 1996 	32 	347.50
+	83 	ZARAZUA, Renata 	0 	 MEX 	30 Sep 1997 	26 	342.50
+	84 	CABRERA, Lizette 	0 	 AUS 	19 Dec 1997 	23 	342.50
+	85 	MINNEN, Greetje 	+1 	 BEL 	14 Aug 1997 	31 	338.75
+	86 	STEFFENSEN, Katrine Isabel 	+1 	 USA 	15 Mar 1996 	38 	337.50
+	87 	SLIUSAR, Kateryna 	+9 	 UKR 	29 Nov 1997 	27 	336.25
+	88 	FETT, Jana 	+10 	 CRO 	02 Nov 1996 	19 	333.75
+	89 	CHIESA, Deborah 	0 	 ITA 	13 Jun 1996 	20 	332.50
+	90 	LIU, Fangzhou 	0 	 CHN 	12 Dec 1995 	10 	331.25
+	91 	VALDES, Rianna 	0 	 USA 	03 Sep 1996 	28 	327.50
+	92 	BOURGUIGNON, Madison 	0 	 USA 	19 Sep 1997 	29 	327.50
+	93 	PATIUK, Valeria 	-5 	 ISR 	11 May 1996 	31 	325.00
+	94 	IVANOVA, Dasha 	-1 	 USA 	11 Oct 1996 	39 	323.75
+	95 	LE ROUX, Madrie 	-1 	 RSA 	19 Apr 1995 	20 	323.75
+	96 	SZLAVIKOVICS, Szabina 	+25 	 HUN 	05 Sep 1995 	33 	322.50
+	97 	WANG, Yan 	-2 	 CHN 	01 Jan 1996 	28 	322.50
+	98 	BOLSOVA ZADOINOV, Aliona 	+40 	 ESP 	06 Nov 1997 	22 	318.75
+	99 	PETERSON, Rebecca 	-17 	 SWE 	06 Aug 1995 	23 	315.00
+	100 	YEROLYMOS , Margot 	0 	 FRA 	19 Apr 1997 	30 	312.50
+	101 	YOU, Xiaodi 	+2 	 CHN 	12 May 1996 	32 	312.50
+	102 	BARZO, Lilla 	-1 	 HUN 	02 Sep 1996 	19 	311.25
+	103 	GRIMM, Chiara 	-1 	 SUI 	28 Jan 1997 	27 	307.50
+	104 	BAINS, Naiktha 	-5 	 AUS 	17 Dec 1997 	28 	305.00
+	105 	BEKEFI, Bianka 	+2 	 HUN 	18 Mar 1997 	32 	303.75
+	106 	ARCONADA, Usue Maitane 	-2 	 USA 	28 Oct 1998 	28 	300.00
+	107 	FUENTES, Camila 	+1 	 MEX 	29 Sep 1995 	26 	288.75
+	108 	LASKUTOVA, Ksenia 	+2 	 RUS 	29 Aug 1996 	29 	287.50
+	109 	LIEBENS, Klaartje 	0 	 BEL 	11 Jan 1995 	31 	285.00
+	110 	OKAMURA, Kyoka 	+1 	 JPN 	06 Oct 1995 	28 	281.25
+	111 	KORASHVILI, Oleksandra 	-43 	 UKR 	01 Mar 1996 	15 	280.00
+	112 	HERAZO GONZALEZ, Maria Fernanda 	0 	 COL 	22 Mar 1997 	23 	280.00
+	113 	MCADOO, Rasheeda 	0 	 USA 	30 Jun 1995 	18 	280.00
+	114 	SETHI, Simran Kaur 	0 	 IND 	24 Jun 1996 	26 	280.00
+	115 	DASCALU, Nicoleta-Catalina 	0 	 ROU 	19 Dec 1995 	24 	277.50
+	116 	GEUKENS, Britt 	0 	 BEL 	23 Feb 1996 	38 	276.25
+	117 	NEFFA DE LOS RIOS, Ana Paula 	0 	 PAR 	17 Jan 1997 	27 	276.25
+	118 	FANNING, Emily 	-12 	 NZL 	13 Jun 1995 	25 	275.00
+	119 	VAZQUEZ, Cassandra 	0 	 MEX 	11 May 1996 	30 	275.00
+	120 	TEICHMANN, Jil Belen 	0 	 SUI 	15 Jul 1997 	27 	272.50
+	121 	MADCUR, Ana 	+1 	 ARG 	19 Jul 1996 	24 	271.25
+	122 	RYCHAGOVA, Anastasiya 	+1 	 RUS 	14 Jan 1997 	21 	271.25
+	123 	POTOCNIK, Nina 	+1 	 SLO 	12 Jan 1997 	26 	270.00
+	124 	RUSH, Lana 	+1 	 GBR 	09 Feb 1997 	39 	268.75
+	125 	VAJDOVA, Natalia 	-7 	 SVK 	26 Apr 1995 	25 	267.50
+	126 	APONASENKO, Vasilisa 	0 	 RUS 	22 Oct 1996 	41 	267.50
+	127 	KIM, Dabin 	0 	 KOR 	02 Jan 1997 	28 	265.00
+	128 	PLEWS, Jazzi 	0 	 GBR 	28 Feb 1998 	24 	263.75
+	129 	TJANDRAMULIA, Olivia 	0 	 AUS 	11 May 1997 	23 	262.50
+	130 	MILOVANOVIC, Dzina 	0 	 SRB 	24 Jul 1996 	26 	262.50
+	131 	FRIDMAN, Olga 	0 	 UKR 	30 Sep 1998 	18 	257.50
+	132 	STEFKOVA, Barbora 	0 	 CZE 	04 Apr 1995 	15 	255.00
+	133 	KOVAL, Anna 	-28 	 RUS 	14 Oct 1996 	19 	255.00
+	134 	CABAJ AWAD, Jacqueline 	-1 	 SWE 	28 Jan 1996 	19 	253.75
+	135 	RUSE, Elena Gabriela 	-1 	 ROU 	06 Nov 1997 	24 	253.75
+	136 	LIANG, Gloria 	-1 	 CAN 	16 Oct 1996 	18 	250.00
+	137 	BONDAR, Anna 	0 	 HUN 	27 May 1997 	27 	250.00
+	138 	SIMPSON, Jessica 	+1 	 RSA 	19 Jun 1995 	27 	248.75
+	139 	MORTAGY, Hana 	+2 	 EGY 	17 Jun 1998 	26 	247.50
+	140 	HIVES, Zoe 	+2 	 AUS 	24 Oct 1996 	18 	246.25
+	141 	YE, Qiu Yu 	-5 	 CHN 	29 Nov 1997 	16 	246.25
+	142 	BLANCO, Carmen 	+2 	 VEN 	25 Jul 1995 	24 	245.00
+	143 	BHOSALE, Rutuja 	+2 	 IND 	27 Mar 1996 	16 	245.00
+	144 	GAMARRA MARTINS, Ingrid 	+2 	 BRA 	22 Aug 1996 	28 	243.75
+	145 	STANIKOVA, Monika 	+9 	 SVK 	06 Mar 1996 	21 	242.50
+	146 	MCCARTHY, Kaitlyn 	+1 	 USA 	04 Dec 1997 	15 	242.50
+	147 	WAGLAND, Danielle 	+3 	 AUS 	20 Jul 1995 	20 	238.75
+	148 	FRENKEL, Nicole 	+9 	 USA 	29 Apr 1998 	20 	238.75
+	149 	HALBAUER, Ellie 	+2 	 USA 	10 Jul 1997 	24 	238.75
+	150 	BRESCIA, Georgia 	+2 	 ITA 	08 Feb 1996 	24 	238.75
+	151 	PEREZ-GARCIA, Maria Paulina 	+2 	 COL 	10 Jan 1996 	40 	237.50
+	152 	SHISHKINA, Maria 	-12 	 KAZ 	22 Jul 1998 	13 	237.50
+	153 	GALFI, Dalma 	+5 	 HUN 	13 Aug 1998 	24 	237.50
+	154 	SHAYDULLINA, Sabina 	+1 	 RUS 	07 Feb 1996 	27 	237.50
+	155 	NORRIS, Marie 	-7 	 USA 	11 Jun 1997 	30 	236.25
+	156 	SUTJIADI, Aldila 	-13 	 INA 	02 May 1995 	26 	235.00
+	157 	ARTIGA HENRIQUEZ, Jennifer Paola 	-1 	 ESA 	08 Aug 1995 	28 	235.00
+	158 	XUN, Fang Ying 	-9 	 CHN 	14 Jan 1995 	32 	232.50
+	159 	YADLAPALLI, Pranjala 	0 	 IND 	30 Mar 1999 	19 	232.50
+	160 	KURZ, Karoline 	0 	 AUT 	21 May 1996 	39 	232.50
+	161 	SCHOLL, Chalena 	0 	 USA 	18 Aug 1995 	12 	230.00
+	162 	RUHRIG, Georgiana 	0 	 AUS 	21 Jul 1995 	19 	227.50
+	163 	JACOBS, Lesedi Sheya 	0 	 NAM 	01 Oct 1997 	34 	226.25
+	164 	HON, Priscilla 	0 	 AUS 	10 May 1998 	18 	225.00
+	165 	HOFER, Verena 	+28 	 ITA 	02 Sep 1997 	12 	225.00
+	166 	PEDDI REDDY, Sri Vaishnavi 	0 	 IND 	04 Oct 1995 	23 	225.00
+	167 	ROSATELLO, Camilla 	0 	 ITA 	28 May 1995 	14 	223.75
+	168 	KOCH, Janet 	0 	 RSA 	12 Feb 1996 	30 	222.50
+	169 	ZAGORAC, Eva 	+1 	 SLO 	15 Nov 1995 	27 	220.00
+	170 	STOLMAR, Rebeka 	-1 	 HUN 	26 Feb 1997 	33 	218.75
+	171 	TERZIYSKA, Julia 	0 	 BUL 	05 Mar 1996 	15 	218.75
+	172 	PORTER, Peggy 	0 	 USA 	10 Nov 1995 	20 	217.50
+	173 	MARKOVIC, Mina 	0 	 SRB 	03 Jan 1996 	24 	216.25
+	174 	BAQUERIZO, Rafaella 	0 	 ECU 	25 Mar 1998 	29 	215.00
+	175 	GRINCHISHINA, Alexandra 	+17 	 KAZ 	22 Oct 1995 	30 	215.00
+	176 	ZOVINCOVA, Vendula 	-1 	 CZE 	15 Apr 1997 	30 	215.00
+	177 	CHANG, Ya-Ting 	-1 	 TPE 	26 Jul 1997 	26 	215.00
+	178 	GORCHES, Constanza 	-1 	 MEX 	05 Feb 1998 	32 	213.75
+	179 	BROGAN, Anna 	+2 	 GBR 	04 Aug 1997 	34 	213.75
+	180 	SHAULSKAYA, Anastasia 	-2 	 RUS 	25 Apr 1997 	30 	212.50
+	181 	MIROSHNICHENKO, Veronica 	-2 	 RUS 	19 Nov 1997 	42 	212.50
+	182 	NEFEDOVA, Anastasia 	-2 	 RUS 	17 Oct 1997 	31 	212.50
+	183 	ZLATEVA, Dessislava 	-1 	 BUL 	15 Apr 1997 	28 	211.25
+	184 	DE SANTIS, Gabriella 	-1 	 VEN 	01 Nov 1995 	19 	210.00
+	185 	HERDZELAS, Dea 	-1 	 BIH 	07 Nov 1996 	13 	210.00
+	186 	BLINKOVA, Anna 	-1 	 RUS 	10 Sep 1998 	16 	210.00
+	187 	GATICA, Barbara 	-1 	 CHI 	16 Aug 1996 	28 	207.50
+	188 	PIROK, Alexa 	-1 	 HUN 	01 Oct 1996 	33 	207.50
+	189 	HOBGARSKI, Katharina 	-1 	 GER 	18 Jun 1997 	21 	207.50
+	190 	URZHUMOVA, Valeriya 	-1 	 RUS 	06 May 1997 	12 	206.25
+	191 	GHITESCU, Andreea 	-1 	 ROU 	10 Mar 1997 	29 	206.25
+	192 	LYSAKOVA, Antonina 	-1 	 RUS 	16 May 1997 	30 	205.00
+	193 	SORRIBES TORMO, Sara 	+1 	 ESP 	08 Oct 1996 	4 	203.75
+	194 	FABIAN, Luca 	+1 	 HUN 	05 Aug 1995 	41 	203.75
+	195 	DE VROOME, Indy 	+1 	 NED 	21 May 1996 	10 	202.50
+	196 	PODOROSKA, Nadia 	+1 	 ARG 	10 Feb 1997 	10 	202.50
+	197 	TAYLOR, Gabriella 	+1 	 GBR 	07 Mar 1998 	20 	201.25
+	198 	OTTOMANO, Sara 	+1 	 SUI 	06 Mar 1996 	37 	200.00
+	199 	ZHANG, Yukun 	+1 	 CHN 	25 Dec 1995 	33 	200.00
+	200 	HEINOVA, Simona 	+1 	 CZE 	28 May 1997 	29 	200.00
+	201 	RUDER-HOOK, Mira 	+1 	 USA 	23 Apr 1996 	20 	200.00
+	202 	VAN ZYL, Theresa Alison 	+2 	 RSA 	20 Sep 1996 	29 	198.75
+	203 	DEAGOSTINI, Margaux 	0 	 SUI 	16 Nov 1996 	27 	198.75
+	204 	GRABHER, Julia 	+31 	 AUT 	02 Jul 1996 	27 	198.75
+	205 	QOSTAL, Lina 	0 	 MAR 	11 Mar 1997 	23 	198.75
+	206 	MIYAZAKI, Yuriko 	0 	 JPN 	11 Nov 1995 	26 	197.50
+	207 	MARGULIS, Marina 	0 	 RUS 	05 Jun 1996 	27 	197.50
+	208 	BRADY, Jennifer 	0 	 USA 	12 Apr 1995 	16 	196.25
+	209 	GORDON, Michaela 	+16 	 USA 	26 Jul 1999 	14 	196.25
+	210 	PAOLINI, JASMINE 	-1 	 ITA 	04 Jan 1996 	25 	195.00
+	211 	ALVARO, Ivone 	-1 	 POR 	04 Nov 1996 	26 	193.75
+	212 	KOBAYASHI, Miki 	-1 	 JPN 	16 Apr 1995 	28 	192.50
+	213 	TOLIBOVA, Sadafmoh 	-1 	 BLR 	16 Jun 1996 	30 	192.50
+	214 	HUANG, En-Pei 	-1 	 TPE 	02 Jan 1998 	28 	192.50
+	215 	CHONG, Eudice 	-1 	 HKG 	22 Apr 1996 	22 	192.50
+	216 	FEDORYSHYN, Anastasiya 	-1 	 UKR 	29 Apr 1997 	30 	192.50
+	217 	STITELER, Alexandria 	-1 	 USA 	11 May 1996 	26 	191.25
+	218 	KANG, Jia Qi 	-1 	 CHN 	19 Jul 1997 	24 	191.25
+	219 	XUE, Jiayuan 	-1 	 CHN 	22 Aug 1996 	30 	188.75
+	220 	HOURIGAN, Paige Mary 	-1 	 NZL 	03 Feb 1997 	17 	188.75
+	221 	MOMKOONTHOD, Tamachan 	-1 	 THA 	14 Apr 1997 	34 	188.75
+	222 	IAKOVLEVA, Anna 	-1 	 RUS 	02 Dec 1997 	26 	188.75
+	223 	STADLER, Nina 	0 	 SUI 	11 Oct 1995 	34 	187.50
+	224 	SLAVICA, Lana 	+9 	 CRO 	14 Dec 1997 	34 	187.50
+	225 	STOLLAR, Fanny 	-1 	 HUN 	12 Nov 1998 	11 	187.50
+	226 	KUZMOVA, Viktoria 	+33 	 SVK 	11 May 1998 	24 	187.50
+	227 	YU, Yuanyi 	-1 	 CHN 	01 Jan 1995 	34 	187.50
+	228 	MOROZOVA, Alexandra 	-1 	 USA 	24 Feb 1995 	27 	185.00
+	229 	JOKIC, KATARINA 	-1 	 BIH 	19 Apr 1998 	13 	185.00
+	230 	PLIPUECH, Plobrung 	-1 	 THA 	19 Nov 1997 	36 	185.00
+	231 	KEMPEN, Magali 	-1 	 BEL 	30 Nov 1997 	22 	185.00
+	232 	VAN DIJKMAN, Inger 	-1 	 NED 	25 Sep 1996 	17 	185.00
+	233 	JOROVIC, Ivana 	-1 	 SRB 	03 May 1997 	14 	183.75
+	234 	ATIK, Rita 	0 	 MAR 	22 Oct 1997 	17 	183.75
+	235 	ZABIROVA, Adeliya 	+1 	 RUS 	19 Jul 1998 	27 	182.50
+	236 	VIAS, Ines Karmen 	+1 	 USA 	15 Jun 1997 	14 	182.50
+	237 	SUETRONG, Thanthita 	+1 	 THA 	22 Jul 1996 	26 	182.50
+	238 	SERBAN, Raluca Georgiana 	+1 	 ROU 	17 Jun 1997 	26 	182.50
+	239 	VIDAL, Leticia Garcia 	+1 	 BRA 	13 Mar 1997 	33 	181.25
+	240 	STOKKE, Melanie 	+1 	 NOR 	01 Oct 1996 	36 	181.25
+	241 	STRESNAKOVA, Katarina 	+26 	 SVK 	29 Jun 1997 	18 	178.75
+	242 	VIKHLYANTSEVA, Natalia 	+1 	 RUS 	16 Feb 1997 	19 	178.75
+	243 	ARMITANO, Mathilde 	+13 	 FRA 	04 Jun 1997 	28 	177.50
+	244 	ZHENG, Wushuang 	+110 	 CHN 	29 Nov 1998 	17 	177.50
+	245 	DOSHI, Rheeya 	-1 	 SIN 	24 Apr 1996 	35 	173.75
+	246 	PONOMAR, Lisa 	0 	 GER 	21 May 1997 	31 	172.50
+	247 	HARTONO, Arianne 	0 	 NED 	21 Apr 1996 	20 	172.50
+	248 	SUN, Xu Liu 	-83 	 CHN 	07 Mar 1995 	14 	171.25
+	249 	DOYLE, Caroline 	-27 	 USA 	15 Mar 1996 	12 	170.00
+	250 	DI FILIPPO, Colomba 	-2 	 CHI 	21 Mar 1996 	30 	170.00
+	251 	BIRRELL, Kimberly 	-2 	 AUS 	29 Apr 1998 	17 	170.00
+	252 	DOKEY, Gulnaz 	-2 	 KAZ 	02 Jan 1995 	29 	170.00
+	253 	VOROBJOVA, Tatjana 	-2 	 EST 	26 Jul 1996 	34 	170.00
+	254 	CHRISTIE, Freya 	-2 	 GBR 	08 Nov 1997 	30 	170.00
+	255 	GUO, Xiao Xuan 	+15 	 CHN 	04 Jul 1995 	22 	168.75
+	256 	BHATIA, Riya 	-3 	 IND 	24 Sep 1997 	26 	168.75
+	257 	SHARIFOVA, Ksenija 	-2 	 RUS 	01 May 1996 	17 	167.50
+	258 	GUBANOVA, Yekaterina 	-1 	 KAZ 	19 Dec 1996 	34 	167.50
+	259 	PISLAK, Manca 	+12 	 SLO 	09 Sep 1997 	19 	167.50
+	260 	JOVIC, Nikolina 	-2 	 SRB 	07 Apr 1998 	21 	167.50
+	261 	POTHOFF, Maddie 	-1 	 USA 	17 Nov 1997 	18 	166.25
+	262 	ANDREWS, Gabrielle Faith 	-1 	 USA 	23 Dec 1996 	8 	166.25
+	263 	MIHALIKOVA, Tereza 	-1 	 SVK 	02 Jun 1998 	21 	165.00
+	264 	SILAKUL, Chanikarn 	-1 	 THA 	05 Aug 1995 	36 	165.00
+	265 	CRISTIAN , Jaqueline Adina 	-1 	 ROU 	05 Jun 1998 	30 	165.00
+	266 	CORTES, Jessica 	-1 	 MEX 	11 Feb 1995 	34 	165.00
+	267 	DUBAVETS, Palina 	+1 	 BLR 	17 Dec 1996 	19 	163.75
+	268 	ALESHCHEVA, Vera 	+1 	 RUS 	30 Jun 1997 	29 	162.50
+	269 	BOVY , Margaux 	+3 	 BEL 	28 Sep 1997 	15 	162.50
+	270 	SAFRONENKA, Anita 	+4 	 BLR 	18 Dec 1995 	27 	160.00
+	271 	TUOMI, Tanja 	+4 	 FIN 	04 May 1996 	33 	160.00
+	272 	CHERNYSHKOVA, Daria 	+4 	 RUS 	23 Feb 1996 	20 	160.00
+	273 	YAN, Ruyu 	-31 	 CHN 	12 Jun 1996 	14 	160.00
+	274 	MIHAILA, Ana Bianca 	+3 	 ROU 	05 Oct 1996 	26 	158.75
+	275 	LIDKOVSKAYA, Irina 	+3 	 RUS 	21 Jan 1996 	28 	158.75
+	276 	POSPELOVA, Aleksandra 	+3 	 RUS 	22 Apr 1998 	15 	158.75
+	277 	WILLIAMS, Claudia 	+3 	 NZL 	29 Feb 1996 	23 	158.75
+	278 	SHAO, Yijia 	+49 	 CHN 	09 Jan 1997 	17 	158.75
+	279 	TANPOCO, Maika Jae 	+2 	 PHI 	27 Oct 1995 	28 	157.50
+	280 	MARC, Masa 	+2 	 SLO 	04 Nov 1995 	19 	157.50
+	281 	MORDERGER, Tayisiya 	+2 	 GER 	07 Mar 1997 	13 	157.50
+	282 	KALINSKAYA, Anna 	+2 	 RUS 	02 Dec 1998 	8 	157.50
+	283 	VAIDYA, Ria 	+2 	 SIN 	08 Dec 1996 	35 	157.50
+	284 	KRUZHKOVA, Daria 	+54 	 RUS 	07 May 1998 	14 	157.50
+	285 	LEDUC, Marie-Alexandre 	+1 	 CAN 	24 Sep 1997 	18 	156.25
+	286 	PROKOPUIK, Alexis 	+1 	 CAN 	25 Sep 1996 	32 	155.00
+	287 	MARINKOVIC, Bojana 	+2 	 SRB 	30 Oct 1996 	38 	155.00
+	288 	GOMIDE, Julia Mansano 	+2 	 BRA 	26 Feb 1997 	24 	153.75
+	289 	TOPSEL, Muge 	+2 	 TUR 	16 Feb 1997 	28 	153.75
+	290 	SIMONELLI, Alessandra 	+53 	 ITA 	19 Jan 1998 	19 	152.50
+	291 	SCHOLSEN, Helene 	+1 	 BEL 	09 Jan 1996 	23 	152.50
+	292 	GRIFFIN, Alannah 	+1 	 GBR 	08 Dec 1996 	32 	152.50
+	293 	FRIEDEL, Jenna 	+1 	 USA 	21 Oct 1997 	15 	152.50
+	294 	MURTA, Ines 	+1 	 POR 	31 May 1997 	23 	151.25
+	295 	GOMEZ, Rafaela 	+1 	 ECU 	07 Apr 1997 	28 	151.25
+	296 	ASGHAR, Jasmine Amber 	+4 	 GBR 	08 Sep 1997 	23 	150.00
+	297 	MA, Ka Man Carina 	0 	 HKG 	17 Aug 1995 	36 	150.00
+	298 	MELOUNOVA, PETRA 	0 	 CZE 	14 Jul 1997 	25 	150.00
+	299 	HORVIT, Mia 	0 	 USA 	23 Jul 1997 	20 	148.75
+	300 	NJOZE, Mirabelle 	+25 	 GBR 	05 Feb 1997 	23 	148.75
+	301 	INGLIS, Maddison 	+1 	 AUS 	14 Jan 1998 	24 	147.50
+	302 	MICHIELS, Morgane 	+1 	 BEL 	02 Feb 1997 	25 	146.25
+	303 	GRACI, Elysse 	+1 	 USA 	10 Sep 1996 	26 	146.25
+	304 	LI, Huijie 	-3 	 CHN 	14 Jun 1996 	24 	146.25
+	305 	KARAMANOLEVA, Aleksandra 	-51 	 BUL 	14 Nov 1996 	7 	146.25
+	306 	ZIMMERMANN, Kimberley 	-61 	 BEL 	09 Nov 1995 	8 	145.00
+	307 	RUIZ, Daniela 	0 	 BOL 	05 May 1997 	18 	145.00
+	308 	KOTELESOVA, Barbara 	-20 	 SVK 	12 May 1996 	22 	145.00
+	309 	PIETROIU, Ioana Diana 	-1 	 ROU 	17 Feb 1998 	15 	145.00
+	310 	PEREZ-GARCIA, Paula Andrea 	-1 	 COL 	10 Jan 1996 	33 	143.75
+	311 	KAN, Victoria 	-1 	 RUS 	03 Aug 1995 	5 	142.50
+	312 	MORDERGER, Yana 	-1 	 GER 	07 Mar 1997 	13 	142.50
+	313 	HERLINA, Efriliya 	-1 	 INA 	24 Apr 1995 	24 	142.50
+	314 	YEPISHEVA, Anastasiya 	-1 	 KAZ 	22 Apr 1996 	26 	142.50
+	315 	PRIBYLOVA, Anastasia 	+16 	 RUS 	12 Feb 1996 	22 	142.50
+	316 	BESSONOVA, Vera 	-2 	 RUS 	11 Dec 1995 	31 	142.50
+	317 	SPACKMAN, Claire Yoonkee Choi 	-2 	 HKG 	03 Oct 1997 	22 	142.50
+	318 	TALABA, Gabriela 	-2 	 ROU 	23 Aug 1995 	8 	141.25
+	319 	KOLODZIEJOVA, Miriam 	-2 	 CZE 	11 Apr 1997 	28 	141.25
+	320 	JABLONOVSKA, Jana 	+75 	 SVK 	03 Feb 1996 	20 	140.00
+	321 	GARIGLIO, Francesca 	-2 	 ITA 	14 Mar 1996 	18 	140.00
+	322 	GAI, Ao 	-2 	 CHN 	11 Jan 1995 	18 	140.00
+	323 	SIMION, Oana Georgeta 	-2 	 ROU 	08 Mar 1996 	20 	140.00
+	324 	LASHEEN, Habiba 	-2 	 EGY 	01 Jan 1998 	25 	140.00
+	325 	STARR, Denise 	-2 	 USA 	17 Apr 1995 	14 	138.75
+	326 	ROSA, Luisa 	-2 	 BRA 	28 Apr 1995 	32 	138.75
+	327 	SHARYPOVA, Olga 	-1 	 RUS 	24 Jul 1997 	13 	138.75
+	328 	ZHANG, Ying 	+69 	 CHN 	15 Apr 1996 	33 	138.75
+	329 	YEE, Kimberly 	-1 	 USA 	15 Oct 1996 	8 	137.50
+	330 	CIANCI, Claudia 	-1 	 POR 	07 Jun 1996 	22 	137.50
+	331 	MOROZOVA, Anna 	-1 	 RUS 	30 Nov 1995 	26 	137.50
+	332 	FRANCATI, Emilie 	0 	 DEN 	24 Jun 1997 	22 	137.50
+	333 	PATEROVA, Dominika 	-67 	 CZE 	19 Sep 1995 	19 	136.25
+	334 	DEAN, Eleanor 	-61 	 GBR 	06 Jan 1996 	5 	136.25
+	335 	FERREIRA SANABRIA, Gabriela 	-2 	 PAR 	20 Apr 1997 	24 	136.25
+	336 	HAUGER, Olivia 	-2 	 USA 	26 Sep 1997 	21 	136.25
+	337 	ANDRIANJAFITRIMO, Tessah 	-2 	 FRA 	11 Oct 1998 	27 	136.25
+	338 	ARGYRIOU, Mara 	-2 	 CYP 	06 Nov 1996 	24 	136.25
+	339 	TATACHAR VENUGOPAL, Dhruthi 	-33 	 IND 	09 Jan 1997 	19 	135.00
+	340 	FARFAN, Daniela 	-3 	 ARG 	03 Mar 1997 	16 	135.00
+	341 	UMOQUIT, Gabriella 	-2 	 USA 	09 Jul 1996 	12 	133.75
+	342 	REICHEL, Lena 	+16 	 AUT 	17 May 1997 	19 	133.75
+	343 	ABO HABAGA, Dona 	-3 	 EGY 	11 Aug 1996 	16 	133.75
+	344 	CHENG, Rosie 	+11 	 NZL 	01 Aug 1998 	23 	133.75
+	345 	LIDDELL, Bridget 	-4 	 NZL 	28 Oct 1995 	20 	132.50
+	346 	SPIELMANN, Danielle 	-4 	 SUI 	10 Jul 1995 	22 	132.50
+	347 	TORELLI, Beatrice 	+77 	 ITA 	04 Sep 1997 	14 	132.50
+	348 	MA, Yi-Chi 	-4 	 TPE 	25 Mar 1997 	32 	132.50
+	349 	LEBESHEVA, Darya 	-4 	 BLR 	06 Apr 1995 	6 	131.25
+	350 	FENERIDIS, Danielle 	-4 	 NZL 	26 Jan 1995 	8 	131.25
+	351 	SAIGO, Yukina 	-4 	 JPN 	27 Apr 1996 	18 	131.25
+	352 	KAPARI, Elizabeth 	-4 	 GHA 	22 Jun 1997 	16 	131.25
+	353 	VEKIC, Donna 	-4 	 CRO 	28 Jun 1996 	4 	130.00
+	354 	MACIEJEWSKA, Zuzanna 	-4 	 POL 	19 Jan 1995 	13 	130.00
+	355 	AUSTIN, Brooke 	-4 	 USA 	12 Feb 1996 	8 	130.00
+	356 	NAGYMIHALY, Luca 	-4 	 HUN 	27 Sep 1997 	13 	130.00
+	357 	COVINGTON, Dominique 	-4 	 GBR 	18 Feb 1995 	25 	130.00
+	358 	OUELLET-PIZER, Chloe Michele 	+13 	 USA 	05 Sep 1997 	28 	130.00
+	359 	KULIKOVA, Valentina 	-3 	 RUS 	06 Oct 1997 	30 	128.75
+	360 	FOLTS, Arina 	-3 	 UZB 	01 Jan 1997 	16 	128.75
+	361 	KARAMALAK, Ivanka 	-2 	 RUS 	22 Oct 1995 	20 	128.75
+	362 	SMITH, Emily 	-2 	 GBR 	21 Aug 1997 	12 	128.75
+	363 	SIPEK, Natalija 	-2 	 SLO 	19 Dec 1996 	13 	127.50
+	364 	EL HOUARI, Zaineb 	-2 	 MAR 	04 Jul 1998 	17 	127.50
+	365 	SHINDE, Vasanti 	-1 	 IND 	15 Feb 1997 	19 	127.50
+	366 	DMITRIEVA, Ksenia 	-1 	 RUS 	31 Dec 1996 	23 	127.50
+	367 	LUMSDEN, Maia 	-1 	 GBR 	10 Jan 1998 	13 	127.50
+	368 	BARA, Irina Maria 	0 	 ROU 	18 Mar 1995 	10 	126.25
+	369 	DOKIC, Anja 	0 	 AUS 	09 Feb 1997 	18 	126.25
+	370 	KNUTSON, Gabriela Andrea 	0 	 CZE 	21 Apr 1997 	30 	126.25
+	371 	TOMEY, Ege 	-4 	 TUR 	12 Jun 1997 	24 	126.25
+	372 	SHERIF, Mayar 	0 	 EGY 	05 May 1996 	16 	125.00
+	373 	HOLANOVA, Nina 	0 	 CZE 	11 Jul 1997 	31 	125.00
+	374 	BASIC, Martina 	0 	 CRO 	11 Jan 1997 	12 	125.00
+	375 	HAFFEY, Mary Catherine 	0 	 USA 	04 Nov 1997 	19 	125.00
+	376 	WIKTORIN, Claudia 	-13 	 USA 	06 Dec 1996 	29 	125.00
+	377 	LANDSTROM, Catrine 	-1 	 SWE 	03 Apr 1995 	13 	125.00
+	378 	ZIDANSEK, Tamara 	-1 	 SLO 	26 Dec 1997 	15 	125.00
+	379 	AXON, Georgina 	-1 	 GBR 	26 May 1999 	16 	125.00
+	380 	RISCHBIETH, Brooke 	-1 	 AUS 	30 Apr 1995 	8 	123.75
+	381 	WESBROOKS, Camila 	-1 	 USA 	25 Nov 1996 	22 	123.75
+	382 	SHESTAKOVA, Anastasiya 	-1 	 UKR 	21 Oct 1995 	16 	123.75
+	383 	CIOBANU, Daniela 	-1 	 MDA 	09 Mar 1995 	16 	123.75
+	384 	VOLEJNICEK, Chiara 	-1 	 SUI 	03 Feb 1996 	20 	123.75
+	385 	ANDRINOPOULOS, Annabelle 	-1 	 AUS 	12 May 1996 	15 	122.50
+	386 	MILLER-KRASILNIKOV, Alexandra 	-1 	 USA 	21 Sep 1997 	30 	122.50
+	387 	STEWART, Katerina 	+54 	 USA 	17 Jul 1997 	9 	122.50
+	388 	TERE-APISAH, Marcia 	-2 	 PNG 	22 Jul 1995 	20 	122.50
+	389 	DE SUTTER, Justine 	-2 	 BEL 	20 Mar 1995 	11 	121.25
+	390 	HINOJOSA GOMEZ, Jessica 	-2 	 MEX 	18 Sep 1997 	30 	121.25
+	391 	POPOVA, Ekaterina 	-2 	 RUS 	14 Feb 1996 	30 	121.25
+	392 	KAO, Pei-Wen 	-2 	 TPE 	16 Jul 1996 	24 	121.25
+	393 	DUVAL, Victoria 	-2 	 USA 	30 Nov 1995 	1 	120.00
+	394 	PEDRAZA NOVAK, Daniela 	-2 	 COL 	18 Nov 1996 	20 	120.00
+	395 	AKSU, Ayla 	-2 	 USA 	15 Jul 1996 	24 	120.00
+	396 	MARCHETTI, Giorgia 	-2 	 ITA 	21 Jan 1995 	22 	120.00
+	397 	GRAMMATIKOPOULOU, Valentini 	-79 	 GRE 	09 Feb 1997 	13 	120.00
+	398 	NILSSON, Ann-Christin 	-2 	 GER 	27 Feb 1995 	38 	120.00
+	399 	CHOI, Suyeon 	-1 	 KOR 	11 Nov 1997 	20 	120.00
+	400 	SHARMA, Astra 	-1 	 AUS 	11 Sep 1995 	6 	118.75
+	401 	MASHTAKOVA, Alena 	0 	 RUS 	27 Dec 1997 	28 	118.75
+	402 	IBBOU , Ines 	0 	 ALG 	05 Jan 1999 	19 	118.75
+	403 	MUMINOVIC, Damira 	0 	 BIH 	07 Apr 1996 	10 	118.75
+	404 	KIM, Da Hye 	0 	 KOR 	25 Apr 1996 	6 	117.50
+	405 	MARTI RIEMBAU, Ariadna 	0 	 ESP 	28 Jun 1996 	15 	117.50
+	406 	BOYANOV, Pamela 	0 	 AUS 	22 Nov 1997 	16 	117.50
+	407 	PETRICK, Charlotte 	0 	 CAN 	31 Jan 1997 	12 	117.50
+	408 	LEENABANCHONG, Rongrong 	0 	 THA 	08 Mar 1995 	12 	117.50
+	409 	ALIPIEVA, Simone 	0 	 DEN 	10 Jan 1998 	27 	117.50
+	410 	PROKOPENKO, Anastasia 	0 	 UKR 	26 Jun 1996 	18 	116.25
+	411 	HEGAB, Dina 	0 	 EGY 	04 Dec 1996 	20 	116.25
+	412 	HAMLIN, Ellyse 	+1 	 USA 	09 Nov 1996 	13 	115.00
+	413 	ROBINSON, Monica 	+1 	 USA 	19 Apr 1995 	6 	115.00
+	414 	NAVARRO OLIVA, Maria Fernanda 	+1 	 MEX 	22 Jun 1996 	28 	115.00
+	415 	NOVIKOVA, Maria 	+1 	 RUS 	25 Jan 1997 	24 	115.00
+	416 	ROENHOLT, Emma 	+1 	 DEN 	12 Dec 1997 	24 	115.00
+	417 	LOHAN, Sinead 	+1 	 IRL 	10 Feb 1995 	17 	113.75
+	418 	RADOSAVLJEVIC, Teodora 	+1 	 SRB 	08 Dec 1995 	39 	113.75
+	419 	FRECH, Magdalena 	+1 	 POL 	15 Dec 1997 	8 	113.75
+	420 	DE LASA, Alejandra 	+1 	 USA 	19 Jan 1995 	20 	113.75
+	421 	CEPELYTE, Agne 	+1 	 LTU 	01 Dec 1995 	21 	113.75
+	422 	KENIN, Sofia 	-10 	 USA 	14 Nov 1998 	18 	113.75
+	423 	ROSELL CANUDAS, Miriam 	0 	 ESP 	11 Aug 1995 	9 	112.50
+	424 	TURATI, Bianca 	+1 	 ITA 	17 Jun 1997 	10 	112.50
+	425 	CAPADOCIA, Marian Jade 	+1 	 PHI 	17 Sep 1995 	13 	112.50
+	426 	THERON, Liniques 	+1 	 NAM 	04 Jan 1995 	12 	111.25
+	427 	NAZAROVA, Gyulnara 	+101 	 UKR 	27 Feb 1998 	23 	111.25
+	428 	WERBROUCK, Michelle 	-123 	 BEL 	27 Feb 1995 	18 	110.00
+	429 	VALOS, Katerina 	-1 	 AUS 	07 May 1997 	21 	110.00
+	430 	PYKA, Katarzyna 	-1 	 POL 	22 Mar 1996 	30 	110.00
+	431 	WOLFF, Vivian 	-1 	 GER 	08 Oct 1998 	9 	110.00
+	432 	WIN, Nilar 	-1 	 MYA 	12 Feb 1996 	23 	110.00
+	433 	CHINELLATO, Silvia 	-1 	 ITA 	23 Jul 1997 	20 	110.00
+	434 	MANASSE, Maegan 	-1 	 USA 	16 Apr 1995 	6 	108.75
+	435 	MRAZ, Hana 	-1 	 SLO 	08 Feb 1998 	26 	108.75
+	436 	VRBENSKA, ANNA 	-1 	 CZE 	29 Nov 1996 	20 	108.75
+	437 	KOSHMAN, Oksana 	-1 	 UKR 	16 Feb 1995 	6 	108.75
+	438 	YANG, Jeung Won 	-1 	 KOR 	15 Jan 1996 	33 	108.75
+	439 	KAUR, Parminder 	-1 	 IND 	19 Feb 1995 	20 	108.75
+	440 	ENE, Cristina 	-1 	 ROU 	18 Dec 1995 	6 	107.50
+	441 	FARAH, Nabila 	-1 	 BOL 	01 Feb 1995 	16 	107.50
+	442 	TAHER, Vita 	0 	 INA 	22 Aug 1995 	12 	106.25
+	443 	WEI, Zhanlan 	+20 	 CHN 	05 Jan 1998 	24 	106.25
+	444 	NG, Kwan Yau 	-1 	 HKG 	19 Feb 1997 	27 	106.25
+	445 	HULE, Chloe 	-1 	 AUS 	28 Jun 1997 	24 	106.25
+	446 	OKAWA, Mayu 	-1 	 JPN 	06 Aug 1997 	19 	106.25
+	447 	ZUBKOVA, Alina 	-1 	 BLR 	19 Aug 1996 	32 	106.25
+	448 	SIOPACHA, Maria 	-1 	 CYP 	02 Jan 1997 	15 	106.25
+	449 	OSTOJIC, Kristina 	-1 	 SRB 	26 Jan 1995 	15 	105.00
+	450 	DITLEV, Martine 	-1 	 DEN 	23 Mar 1996 	15 	105.00
+	451 	KLYUEVA, Ekaterina 	-1 	 KAZ 	02 Jun 1996 	24 	105.00
+	452 	PIIRTOLA, Petra 	-1 	 FIN 	16 May 1996 	22 	105.00
+	453 	SAIDHUJAEVA, Sarvinoz 	-1 	 UZB 	29 Oct 1997 	20 	105.00
+	454 	GRANSTROM, Emilia 	-1 	 SWE 	19 Aug 1995 	14 	105.00
+	455 	SHLEPTSOVA, Anastasiya 	-1 	 BLR 	29 Jun 1996 	34 	105.00
+	456 	SAWHNEY, Vanshika 	-1 	 IND 	15 Dec 1998 	14 	105.00
+	457 	ZANDBERG, Talya 	+62 	 ISR 	06 May 1997 	22 	105.00
+	458 	WANVISA THURAKITSEREE, May 	-2 	 THA 	20 May 1997 	27 	105.00
+	459 	ZOLOTAREVA, Alina 	-2 	 RUS 	25 Mar 1996 	24 	103.75
+	460 	ALTICK, Helen Abigail 	-2 	 USA 	20 May 1998 	22 	103.75
+	461 	NUSSAUME, Anais 	-2 	 THA 	17 Jul 1995 	27 	103.75
+	462 	SANTOS, Eduarda Nardi dos 	-2 	 BRA 	08 Feb 1995 	12 	102.50
+	463 	ANGELES PAZ, Ferny 	-2 	 PER 	29 Nov 1995 	15 	102.50
+	464 	DZENGA, Nicole 	-2 	 ZIM 	14 Feb 1997 	24 	102.50
+	465 	CIUFRILA, Raluca 	-1 	 ROU 	18 Jan 1997 	18 	102.50
+	466 	KAMOE, Tarani 	-1 	 FIJ 	02 Feb 1995 	20 	102.50
+	467 	CHOO, Lyn Yuen 	-1 	 MAS 	27 Sep 1996 	10 	102.50
+	468 	OGANDO, Yolimar 	+58 	 PUR 	09 Aug 1996 	22 	102.50
+	469 	NOE, Julie 	-2 	 DEN 	19 Mar 1996 	25 	102.50
+	470 	SONG, Ah 	-2 	 KOR 	12 May 1996 	11 	101.25
+	471 	NEPLIY, Elina 	-2 	 RUS 	23 Oct 1997 	23 	101.25
+	472 	SAMSONOVA, Ludmilla 	-2 	 RUS 	11 Nov 1998 	24 	101.25
+	473 	ARAYA SANTOS, Astrid Liliana 	-2 	 ESA 	24 Jan 1995 	22 	101.25
+	474 	HUMBERG, Mariana Mayer 	-2 	 BRA 	17 Jun 1996 	28 	100.00
+	475 	ASTETE, Fernanda 	-2 	 CHI 	12 Jan 1997 	19 	100.00
+	476 	CORDERO, Ana Sofia 	-2 	 PUR 	06 Aug 1995 	30 	100.00
+	477 	KELLEY, Meghan 	+2 	 USA 	28 Oct 1997 	22 	100.00
+	478 	CHEN, Chaoyi 	-3 	 CHN 	08 Sep 1997 	27 	100.00
+	479 	CALDERON RECINOS, Rosalinda 	-3 	 ESA 	23 Oct 1995 	18 	100.00
+	480 	JEONG, Yeong Won 	-3 	 KOR 	10 Feb 1996 	10 	100.00
+	481 	SHIVALINGAIAH, Spurti 	-3 	 IND 	12 Jul 1995 	11 	98.75
+	482 	BERRIRI, Aziza 	-2 	 TUN 	06 Feb 1996 	12 	98.75
+	483 	KOWALSKA, Marta 	-2 	 POL 	28 Dec 1996 	18 	98.75
+	484 	JAHREN, Pauline 	-2 	 NOR 	28 Apr 1997 	25 	98.75
+	485 	CHAROENSIRISUTTHIKUL, Peeraya 	-2 	 THA 	02 Feb 1995 	24 	98.75
+	486 	HOEYER, Ulrikke 	-2 	 DEN 	16 May 1996 	29 	98.75
+	487 	VALE COSTA, Joana 	-2 	 POR 	31 Oct 1995 	8 	97.50
+	488 	CHEN, Yuchia 	-1 	 TPE 	16 May 1997 	18 	97.50
+	489 	HSIEH, Yu-Ting 	-1 	 TPE 	27 Feb 1997 	23 	97.50
+	490 	RAHMANPARAST, Ariana 	0 	 CRC 	29 Dec 1996 	22 	96.25
+	491 	TURNER, Caroline 	0 	 USA 	07 Jun 1996 	14 	96.25
+	492 	OSTLUND, Fanny 	+1 	 SWE 	05 May 1997 	23 	96.25
+	493 	RINALDO PERSSON, Kajsa 	+1 	 SWE 	11 Nov 1997 	8 	96.25
+	494 	VERSTER, Nelise 	+1 	 RSA 	04 Jun 1996 	22 	96.25
+	495 	ZHANG, Zixian 	+1 	 CHN 	26 Jul 1996 	19 	96.25
+	496 	BADOSA, Paula 	+2 	 ESP 	15 Nov 1997 	7 	95.00
+	497 	ISKA, Teertha 	+2 	 IND 	27 Apr 1996 	23 	95.00
+	498 	IMAZHANOVA, Dinara 	+2 	 KAZ 	05 Jan 1996 	26 	95.00
+	499 	VAN DER ZWAAN, Roos 	+2 	 NED 	06 Feb 1996 	11 	95.00
+	500 	BOLLWEG, Sasha 	+2 	 AUS 	03 Aug 1998 	18 	95.00

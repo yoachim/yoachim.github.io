@@ -1,0 +1,8 @@
+
+
+progress:
+	just ran through the whole list and pulled the available birth and death dates.  
+
+next up:  Decide if I want to expand the bands into individual names
+     	  Put in genders for everyone
+	  Write the monte carlo!

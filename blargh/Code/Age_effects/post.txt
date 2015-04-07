@@ -1,0 +1,44 @@
+Acurate Astrology:  Birthday Effects in Sports.
+
+
+Anybody else remember Danny Almonte http://en.wikipedia.org/wiki/Danny_Almonte ?  He was the star Little League pitcher who led a team from the Bronx to a third place finish in the Little League World Serries in 2001.  Then it was revealed that Danny was actually two years older than his birth certificate said, making him too old for the league.  The lesson here is that you can look like a damn good athelete if you are playing against inferior competition.
+
+I'd heard about the ice hockey relative age effect in the horrible Malcome Gladwel book Outliers, and again in the slightly less horrible Freakenomics by Dunbar and Levitt.  
+
+If one looks at the distribution of birthdates in the general population, it's pretty random.  There's about the same number of people born on every day of the year.  That's not true when you look at proffessional hockey players, they are more likely to have birthdays early in the year.  
+
+The most common explination for this is that it's a case of "the rich get richer".  If we take a bunch of 6 year-old kids and put them in a hockey league, some will do well and others will suck.  Coaches will spend more time with the talented kids, encouraging them to continue in the sport, putting them on all-star teams, etc.  But out of those 6 year-olds, some will have just turned 6, while others are almost 7.  Coaches and parents are probably pretty bad at telling the difference between a "tallented" kid and one that is simply slightly older than everyone else.  Just like Danny Almonte, the older kids will look impressive.  Once a kid gets labeled as skilled, even if it's only because he's older than the competition, he gets extra resources and his lead over the other kids grows. (note: I came back and switched to all male pronouns in this section, you'll see why shortly) **--this rich-get-richer effect is eeriely similar to how professional astronomy works as well.  Lots of newly minted PhD's apply for prestigeous fellowship.  The few that land them tend to go on and have solid careers.  Was it because the fellowship committee did a good job selecting the best applicants, or would any new grad have been successful given the extra resources and exposure that come with a prize fellowship?  
+
+That's a fine story for how the relative age effect gets started.  I'm a little disapointed that I can't find anyone who's gone out and tested it though.  After all, maybe it's just that younger kids get sick of losing to the older kids and quit more quickly.  
+
+I was surprised to hear that there's also an age-effect in tennis.  I thought there would be little to no birthday bias in tennis because junior tennis tournaments are usually organized in two-year age ranges (e.g., 14 and 15 year-olds are placed in the same brackets and play against eachother).  So even if you are born in January, you still spend every-other year playing against a field where half your competition is older than you.
+
+It's surprisingly easy to go out on the intertubes and scape the birthdates of professional and junior atheletes, so I did.  After ruining a couple credit ratings, I got around to looking for relative age effects.  Results!
+
+XXX-this is also cool since it is a way to address the issue of nature vs nurture in what makes an elite athelete.  Since genes should be the same reguardless of when someone is born, it's a good bet that the RAE is an environemntal effect.  
+
+
+It looks like the NBA, NFL, and girls tennis have no relative age effects.  Meanwhile, the NHL, and boys tennis have significant age effects.  Other's have found RAE for MLB baseball players.  The NBA doesn't surprise me too much.  You can't teach height, so it might be harder to hold on to an early advantage in your youth playing basketball.  You might spend all your junior high years as a dominant 6-foot tall center, only to wind up point-guard sized in high school.  All that time you spent practicing your post moves won't help much if you stop growing at 6-2.  
+
+It's hard to find a pattern that explains which sports have RAEs and which don't.  Baseball and tennis are more focused on individual skill, but then why doesn't girl's tennis show an RAE?  Football and basketball are more physical, but then so is hockey, so why does it still have an RAE?  The only commonality I can see are the sports that are dominated by white men have RAE, while the rest don't.  I checked to see if quarterbacks in the NFL (one of the few positions where the majority of players are white) have an RAE, but they don't.  
+
+XXX-Can we come up with a good explination for which sports have RAEs and which don't?  Here are my two stabs in the dark:
+1)  Football and basketball are intrinsically more physical sports.  If a late bloomer suddenly hits 6' 7", a basketball coach will try to develop him even if he hasn't had much previous experience.  A player's relative age doesn't matter, as long as they eventually hit some physical mile-stone, they can get a shot at playing.  This isn't the case with the "skill" sports.  If you haven't mastered a kick serve, or fielding a grounder by the time your 13, you're never going to make the pros.  No coaches in the skill sports are looking for late bloomers they can develop.
+
+2) Parents invest a lot of resources delveloping potential athletic talent in (white) boys.  Most of the theories of RAEs involve coaches giving more attention to older kids, but I think a large part of it has to be parents seeing their kids as being successful at an early age and encouraging them to continue in a sport.  If you ask a coach if your kid has talent and should be signed up for more classes, the coach will undoubtably say yes (kinda like taking a car in for a free brake inspection, you're going to be told you need new brakes).  But when a parent sees their kid is doing well at a sport, that's what will convince them to actually shell out the extra cash and time for private lessons, a fancier racket, etc.  
+
+3)  Of course, it could be a combination of the two above.  Some sports are easier to pick up later in life, AND white boys who show early promise in a sport (by being slightly older than their competition) end up getting more encouragemnt and recources than others.  There's a sociology PhD thesis in there somewhere...sombody go get on that.  
+
+
+Some things I'd love to see:
+* The strength of the RAE in different age groups.  I wouldn't be surprised if there was a strong RAE in youth basketball that diseapears by the end of high school.
+* Is there a girls/womens sport that does shows an RAE?  
+* How early does the RAE appear in a sport?  Once there is an RAE does it change in strength with time?  
+* Sport leagues tend to use Jan 1 as the date cutoff for age brackets, while schools use different dates.  Could schools be eliminating RAEs in some sports and not others?  
+
+
+
+
+--------------------
+I also can't help but notice that the split between which sports have an age effect and which don't also breaks along racial lines.  Hopefully it's not too gauche to point out there are a lot of black atheletes in the NBA while hockey teams are very white.  Maybe we can explain all these results as coming from many white boys being given extra resources and encouregment when they excell at sports in their youth, while white girls and black kids are not nearly as often groomed for athletic success?  
+

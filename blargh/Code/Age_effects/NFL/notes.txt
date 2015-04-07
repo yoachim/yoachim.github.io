@@ -1,0 +1,21 @@
+man, this is going to suck--there are a lot of players in the NFL
+
+
+grep 'nfl/players/' NFL_qb.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_T.html    >> playerhtml.dat
+grep 'nfl/players/' NFL_de.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_k.html    >> playerhtml.dat
+grep 'nfl/players/' NFL_s.html >> playerhtml.dat
+grep 'nfl/players/' NFL_c.html    >> playerhtml.dat
+grep 'nfl/players/' NFL_dt.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_lb.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_te.html >> playerhtml.dat
+grep 'nfl/players/' NFL_cb.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_g.html    >> playerhtml.dat
+grep 'nfl/players/' NFL_nt.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_rb.html   >> playerhtml.dat
+grep 'nfl/players/' NFL_wr.html  >> playerhtml.dat
+grep 'nfl/players/' NFL_p.html    >> playerhtml.dat
+
+
+perl -p -i -e 's/\"\>.*//g' playerhtml.dat

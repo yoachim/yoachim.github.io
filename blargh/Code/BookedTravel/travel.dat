@@ -1,0 +1,24 @@
+# How many trips do I have booked at a time
+#Location  booked (mo d y) start (mo d y) end (mo d y)
+Chicago	   3 6 12    	4 15 12	 4 19 12
+China	   1 29 13	3 22 13	 3 30 13
+DC	   3 25 11	5 19 11	 5 22 11
+Dallas	   9 23 11	9 27 11  9 30 11
+Chicago	   2 23	14	3 23 14	 3 27 14
+Victoria   3 5 12	3 19 12	 3 21 12
+Hawaii	   11 26 11	1 15 12  1 22 12
+Hawaii	   9 30 13	1 11 14	 1 18 14
+Tucson	   7 30 13	8 11 13	 8 14 13
+Phoenix	   6 19 12	9 12 12  9 17 12
+Phoenix	   6 03 14	9 10 14  9 15 14
+ElPaso	   4 19 11	5 3 11	 5 8  11
+ElPaso	   9 13 10	11 3 10	 11 10 10
+Boston	   3 27 12	6  21 12 6 24 12
+Santiago   8 25 13	11 16 13 11 22 13
+Slovenia   4 04 12	5 19 12	 5 26 12
+ElPaso	   1 18 13	3 13 13	 3 18 13
+Tucson	   10 7 13	10 24 13 10 25 13
+LongBeach  11 14 12	1 5 13   1 10 13
+DC   	   9 30 13	1 5 14	 1 9 14
+Tucson	   2 11 15	3 15 25  3 20 15
+Cambridge  4 06 15	5 16 15	 5 22 15

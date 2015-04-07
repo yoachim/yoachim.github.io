@@ -1,0 +1,56 @@
+A guest post from your friendly neighborhood astronomer Peter Yoachim (http://www.astro.washington.edu/users/yoachim/).
+
+After watching the refs botch MNF (Go Seahawks!?), I was wondering if there's a way to quantify just how bad the NFL replacement referees are.  One thing that stood out in the game was how many calls went the Seahawks' way on the final drive--which reminded me of the discussion of home-field advantage in Scorcasting (http://scorecasting.com/).  They concluded that referee bias is the primary driver in home-field advantage across sports.  They even note that in the NFL from 1985-1998, the home team won 58.5% of the time, but after instant replay was introduced, the home team only won 56% of the games (1999-2008).
+
+If the replacement refs are much worse than the regulars, we might expect the home-field advantage to grow.  My logic being, if the refs are botching more calls, those botched calls will tend to be in favor of the home team, that gives them an advantage, so they should win more.
+
+How have home teams fared so far?  After 48 games this NFL season, the home teams have a record of 31 wins and 17 losses, for a whopping 64.6% win rate!  But is that significantly more than 56%?  31 wins is actually only 4 more wins than we would have expected with the regular refs.  As always happens when I try to calculate the statistical significance of something, I got bogged down in an arcane wikipedia page (http://en.wikipedia.org/wiki/Checking_whether_a_coin_is_fair), when it told me to look up some value from a table.  Whenever a statistician tells me to look something up in a table, I reply, "Fuck that shit, I can Monte Carlo this in 5 lines of Python."  So I did:
+
+hg = np.random.rand(10000,48) #play 10,000 seasons of football with 48 games each
+hg[np.where(hg <= 0.56)]=1 #home team wins 56% of the time
+hg[np.where(hg < 1)]=0 #the rest are losses
+ack = np.sum(hg, axis=1) #total up the wins per season
+print 'probability of home team winning 31 or more games with 1999-2008 refs = %.2f'%(np.size(np.where(ack >= 31))/10000.*100)+'%'
+
+If you run that, you find out that we would expect 31+ home team wins 15% of the time.  Or to turn it around, 85% of the time the home teams have fewer wins at this point in the season.  We normally say something is significant when we reach the 5% level, so we're not there yet.  But if the home teams keep winning at a 65% rate (or higher) for 3-4 more weeks we should make it to significance!  That's about the only reason I've found to root for the replacement refs sticking around--screw you, scabs(http://www.urbandictionary.com/define.php?term=scab)!
+
+
+
+
+
+
+
+
+
+
+
+Are the replacement refs doing a worse job?  Well, we could compare the home-court advantage before and after replacements.
+Usually, home team in NFL wins (1985-1998) 58.5% before replay, 56% from 1999-2008.  
+this year, home teams is 31-17, for a whopping 64.6%
+
+http://en.wikipedia.org/wiki/Checking_whether_a_coin_is_fair
+abs(p-r) < E = z/(2sqrt(n))
+z = 1.9599 (for 95% prob)
+E = 0.14144
+p-E < r < p+E
+p  = .646
+0.50 < r < 0.787
+
+make 10k seasons
+hg = np.random.rand(10000,48)
+hg[np.where(hg <= 0.56)]=1
+hg[np.where(hg < 1)]=0
+ack = np.sum(hg, axis=1)
+print 'probability of home team winning 31 or more games with 1999-2008 refs = %.2f'%(np.size(np.where(ack >= 31))/10000.*100)+'%'
+
+
+probability of home team winning 31 or more games with 1999-2008 refs = 14.41%
+
+can we get significant next week?
+hg = np.random.rand(10000,96)
+hg[np.where(hg <= 0.56)]=1
+hg[np.where(hg < 1)]=0
+ack = np.sum(hg, axis=1)
+print 'probability of home team winning 62 or more games with 1999-2008 refs = %.2f'%(np.size(np.where(ack >= 62))/10000.*100)+'%'
+
+ LocalWords:  np hg

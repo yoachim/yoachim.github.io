@@ -1,0 +1,5 @@
+got basemap to work, but only with mac ports version
+
+ /opt/local/bin/python2.7
+from mpl_toolkits.basemap import Basemap
+

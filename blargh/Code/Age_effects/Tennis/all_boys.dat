@@ -1,0 +1,500 @@
+1 	KYRGIOS, Nick 	0 	 AUS 	27 Apr 1995 	15 	1286.25
+	2 	QUINZI, Gianluigi 	0 	 ITA 	01 Feb 1996 	17 	990.00
+	3 	MILOJEVIC, Nikola 	0 	 SRB 	19 Jun 1995 	24 	972.50
+	4 	CORIC, Borna 	0 	 CRO 	14 Nov 1996 	30 	832.50
+	5 	DJERE, Laslo 	0 	 SRB 	02 Jun 1995 	26 	790.00
+	6 	BALDI, Filippo 	0 	 ITA 	10 Jan 1996 	23 	750.00
+	7 	MONTGOMERY, Wayne 	0 	 RSA 	06 Jul 1995 	25 	712.50
+	8 	GEENS, Clement 	0 	 BEL 	11 Mar 1996 	22 	686.25
+	9 	TATLOT, Johan Sebastien 	0 	 FRA 	26 Mar 1996 	19 	680.00
+	10 	NORRIE, Cameron 	0 	 GBR 	23 Aug 1995 	38 	651.25
+	11 	SILVA, Frederico Ferreira 	0 	 POR 	18 Mar 1995 	18 	643.75
+	12 	YMER, Elias 	0 	 SWE 	10 Apr 1996 	22 	606.25
+	13 	GARIN, Christian 	0 	 CHI 	30 May 1996 	24 	595.00
+	14 	PANTA, Jorge Brian 	0 	 PER 	22 Jul 1995 	30 	575.00
+	15 	CHUNG, Hyeon 	0 	 KOR 	19 May 1996 	20 	572.50
+	16 	KWIATKOWSKI, Thai-Son 	0 	 USA 	13 Feb 1995 	31 	558.75
+	17 	NISHIOKA, Yoshihito 	0 	 JPN 	27 Sep 1995 	22 	556.25
+	18 	HONG, Seong Chan 	0 	 KOR 	30 Jun 1997 	33 	553.75
+	19 	KOZLOV, Stefan 	0 	 USA 	01 Feb 1998 	17 	550.00
+	20 	JARRY, Nicolas 	0 	 CHI 	11 Oct 1995 	35 	546.25
+	21 	ZORMANN DA SILVA, Marcelo 	0 	 BRA 	10 Jun 1996 	24 	533.75
+	22 	NUNEZ, Guillermo 	0 	 CHI 	22 Jul 1995 	35 	531.25
+	23 	RUBIN, Noah 	+1 	 USA 	21 Feb 1996 	16 	525.00
+	24 	MARUSCAK, Matej 	+1 	 SVK 	17 Jan 1995 	26 	520.00
+	25 	MIOCIC, Franko 	-2 	 CRO 	02 May 1995 	23 	518.75
+	26 	HAMOU, Maxime 	0 	 FRA 	08 Jun 1995 	22 	512.50
+	27 	MIEDLER, Lucas 	+20 	 AUT 	21 Jun 1996 	32 	510.00
+	28 	ZVEREV, Alexander 	+15 	 GER 	20 Apr 1997 	34 	506.25
+	29 	NAKAGAWA, Naoki 	-2 	 JPN 	19 Nov 1996 	32 	502.50
+	30 	KIM, Young Seok 	-2 	 KOR 	12 May 1995 	38 	501.25
+	31 	MARTERER, Maximilian 	-2 	 GER 	15 Jun 1995 	22 	497.50
+	32 	BOURCHIER, Harry 	-2 	 AUS 	24 Jan 1996 	25 	495.00
+	33 	CACHIN, Pedro 	-2 	 ARG 	12 Apr 1995 	22 	493.75
+	34 	JASIKA, Omar 	-2 	 AUS 	18 May 1997 	24 	490.00
+	35 	OSAMA, Mazen 	-2 	 EGY 	09 Feb 1995 	20 	488.75
+	36 	SAFIULLIN, Roman 	+5 	 RUS 	07 Aug 1997 	25 	483.75
+	37 	BONZI, Benjamin 	-3 	 FRA 	09 Jun 1996 	29 	481.25
+	38 	CORINTELI, Luca 	-3 	 USA 	09 Jul 1995 	30 	478.75
+	39 	LEE, Duck Hee 	-3 	 KOR 	29 May 1998 	26 	477.50
+	40 	PAPA, Spencer 	-3 	 USA 	22 Oct 1995 	26 	476.25
+	41 	DI FEO, Hugo 	-3 	 CAN 	18 Apr 1995 	24 	473.75
+	42 	MAJCHRZAK, Kamil 	-3 	 POL 	13 Jan 1996 	31 	473.75
+	43 	MEDVEDEV, Daniil 	+21 	 RUS 	11 Feb 1996 	26 	472.50
+	44 	KHACHANOV, Karen 	-4 	 RUS 	21 May 1996 	28 	470.00
+	45 	HALYS, Quentin 	-3 	 FRA 	26 Oct 1996 	20 	467.50
+	46 	MOUSLEY, Bradley 	-2 	 AUS 	03 Jan 1996 	27 	447.50
+	47 	ZHENG, Weiqiang 	-2 	 CHN 	22 Jun 1996 	33 	442.50
+	48 	BAMBRIDGE, Luke 	-2 	 GBR 	21 Jan 1995 	25 	440.00
+	49 	REDLICKI, Martin 	-1 	 USA 	24 Aug 1995 	29 	437.50
+	50 	RUBLEV, Andrey 	-1 	 RUS 	20 Oct 1997 	34 	436.25
+	51 	MATOS, Rafael 	-1 	 BRA 	06 Jan 1996 	34 	431.25
+	52 	DONATI, Matteo 	-1 	 ITA 	28 Feb 1995 	15 	431.25
+	53 	ILKEL, Cem 	-1 	 TUR 	21 Aug 1995 	31 	428.75
+	54 	SHAKHNUBARYAN, Artur 	+14 	 RUS 	16 Aug 1996 	27 	428.75
+	55 	MANSOURI, Skander 	-1 	 TUN 	23 Jul 1995 	37 	422.50
+	56 	ISMAILOV, Temur 	-1 	 UZB 	14 Jan 1995 	20 	420.00
+	57 	NAPOLITANO, Stefano 	-1 	 ITA 	11 Apr 1995 	18 	418.75
+	58 	GALLEGUILLOS, Jaime Ignacio 	+31 	 CHI 	04 Sep 1995 	40 	416.25
+	59 	SAITO, Takashi 	-2 	 JPN 	23 Feb 1995 	32 	416.25
+	60 	WINDAHL, Daniel 	-2 	 SWE 	20 Jul 1996 	25 	413.75
+	61 	COUACAUD, Enzo 	-2 	 FRA 	01 Mar 1995 	17 	407.50
+	62 	JANVIER, Maxime 	-2 	 FRA 	18 Oct 1996 	33 	406.25
+	63 	PEDRAZA, Diego 	-2 	 COL 	15 Feb 1995 	33 	406.25
+	64 	STAUBERT, Pavel 	-1 	 CZE 	11 Jan 1996 	24 	405.00
+	65 	WOERNER, Paul 	-3 	 GER 	23 Aug 1996 	31 	403.75
+	66 	ONISHI, Ken 	+7 	 JPN 	18 Feb 1996 	28 	398.75
+	67 	WEIDINGER, Dominic 	+3 	 AUT 	11 Jan 1995 	33 	396.25
+	68 	SCHNUR, Brayden 	-3 	 CAN 	04 Jul 1995 	23 	393.75
+	69 	VASILENKO, Alexander 	-3 	 RUS 	26 Feb 1995 	21 	392.50
+	70 	TATOMIR, Luca George 	-3 	 ROU 	21 Aug 1995 	28 	390.00
+	71 	MYLNIKOV, Tommy 	-2 	 CAN 	08 Nov 1995 	25 	382.50
+	72 	SOENDERGAARD, Simon Friis 	-1 	 DEN 	26 Jun 1996 	25 	382.50
+	73 	HAERTEIS, Johannes 	+4 	 GER 	22 Feb 1996 	32 	381.25
+	74 	O'MARA, Jonny 	-2 	 GBR 	02 Mar 1995 	31 	380.00
+	75 	BAHAMONDE, Francisco 	-1 	 ARG 	07 Nov 1996 	21 	377.50
+	76 	EDMUND, Kyle 	-1 	 GBR 	08 Jan 1995 	10 	375.00
+	77 	GOMEZ, Lucas 	-1 	 MEX 	11 Aug 1995 	41 	375.00
+	78 	VALENT, Daniel 	0 	 SUI 	15 May 1995 	31 	366.25
+	79 	MALLA, Bastian 	0 	 CHI 	22 Sep 1996 	25 	362.50
+	80 	NAGAL, Sumit 	0 	 IND 	16 Aug 1997 	28 	357.50
+	81 	ANDRIJIC, Jay 	-28 	 AUS 	03 Oct 1995 	23 	350.00
+	82 	RAM-HAREL, Or 	-1 	 ISR 	01 Feb 1995 	25 	343.75
+	83 	DESYATNIK, Anton 	-1 	 RUS 	07 Oct 1995 	38 	342.50
+	84 	TIAFOE, Francis 	-1 	 USA 	20 Jan 1998 	24 	342.50
+	85 	KANG, Ku Keon 	-1 	 KOR 	02 Jan 1997 	28 	340.00
+	86 	MENDOZA, Jurence Zosimo 	-1 	 PHI 	29 May 1996 	29 	340.00
+	87 	SENDEGEYA, Alexander 	+3 	 GBR 	27 Jun 1996 	37 	331.25
+	88 	MMOH, Michael 	0 	 USA 	10 Jan 1998 	32 	330.00
+	89 	WALENDOWSKY, Joao 	+4 	 BRA 	16 Sep 1995 	37 	326.25
+	90 	KERZNERMAN, Daniel 	-3 	 USA 	22 Feb 1996 	34 	325.00
+	91 	SPIRIN, Aleksandr Ivanovich 	0 	 RUS 	21 Jun 1995 	32 	317.50
+	92 	TRONGCHAROENCHAIKUL, Wishaya 	0 	 THA 	08 Apr 1995 	16 	316.25
+	93 	HOYT, Evan 	-7 	 GBR 	16 Jan 1995 	31 	312.50
+	94 	KIM, Dukyoung 	0 	 KOR 	17 May 1995 	34 	307.50
+	95 	MCDONALD, Mackenzie 	0 	 USA 	16 Apr 1995 	30 	306.25
+	96 	MULLER, Alexandre 	0 	 FRA 	01 Feb 1997 	34 	306.25
+	97 	OCHI, Makoto 	+41 	 JPN 	03 May 1996 	36 	305.00
+	98 	CONSTANTINOVICI, Robert 	-1 	 ROU 	01 Mar 1995 	18 	302.50
+	99 	CALVO EMAN , Ferran 	+31 	 ESP 	10 Mar 1996 	22 	302.50
+	100 	ABID, Mehdi 	-2 	 TUN 	02 May 1995 	32 	301.25
+	101 	WAGNER, Hannes 	-2 	 GER 	25 Oct 1995 	25 	300.00
+	102 	MENEZES, Joao 	-1 	 BRA 	17 Dec 1996 	32 	297.50
+	103 	ARCONADA, Jordi 	-1 	 ARG 	06 Sep 1996 	38 	291.25
+	104 	HANSSON, Gustav 	-1 	 SWE 	15 Apr 1995 	21 	291.25
+	105 	OBERT, Adrian 	-1 	 GER 	19 Mar 1995 	26 	291.25
+	106 	LUZ, Orlando 	-1 	 BRA 	08 Feb 1998 	21 	290.00
+	107 	KRYVOY, Yuriy 	-7 	 UKR 	27 Jan 1995 	23 	290.00
+	108 	SILLER, Rogelio 	-2 	 MEX 	11 Jul 1995 	48 	290.00
+	109 	KOKKINAKIS, Thanasi 	-2 	 AUS 	10 Apr 1996 	2 	288.75
+	110 	YAMASAKI, Jumpei 	-1 	 JPN 	02 Jul 1997 	20 	282.50
+	111 	COUTINHO, Rafael Antonio 	+17 	 VEN 	12 Mar 1996 	39 	282.50
+	112 	COLAUTTI, Thomas 	-2 	 GBR 	03 Feb 1995 	24 	282.50
+	113 	APOSTOL, Bogdan Ionut 	-2 	 ROU 	17 Jan 1996 	24 	282.50
+	114 	TANG, Chih-Chun 	-2 	 TPE 	20 Sep 1995 	26 	280.00
+	115 	YU, Cheng-Yu 	-7 	 TPE 	02 Apr 1995 	28 	278.75
+	116 	WIERSHOLM, Henrik 	-3 	 USA 	27 Mar 1997 	25 	278.75
+	117 	VALERO, Luis 	-3 	 COL 	05 Jun 1996 	27 	277.50
+	118 	POKOTILOV, Boris 	-3 	 RUS 	27 May 1997 	30 	277.50
+	119 	ALVAREZ, Nicolas 	-3 	 PER 	08 Jun 1996 	33 	276.25
+	120 	BODMER, Adrian 	-3 	 SUI 	06 Mar 1995 	37 	276.25
+	121 	VARILLAS PATINO-SAMUDIO, Juan Pablo 	-3 	 PER 	06 Oct 1995 	28 	275.00
+	122 	ROSSOUW, Matthew 	-3 	 RSA 	04 May 1995 	29 	275.00
+	123 	YEUNG, Pak Long 	-3 	 HKG 	14 Feb 1995 	17 	271.25
+	124 	ALVO, Facundo 	-3 	 ARG 	02 Feb 1996 	24 	270.00
+	125 	TEBET FILHO, Marcelo 	-3 	 BRA 	23 Feb 1996 	34 	262.50
+	126 	POLMANS, Marc 	-3 	 AUS 	02 May 1997 	26 	262.50
+	127 	PLA MALFEITO, Jaume 	-3 	 ESP 	03 Jun 1995 	15 	261.25
+	128 	USPENSKY, Dennis 	+15 	 USA 	22 Oct 1996 	42 	258.75
+	129 	ZIELINSKI, Jan 	-4 	 POL 	16 Nov 1996 	37 	258.75
+	130 	SYDOW, Franz 	-4 	 VEN 	03 Feb 1995 	26 	257.50
+	131 	STARY, Dominik 	+52 	 CZE 	18 Jan 1997 	32 	256.25
+	132 	LOMACKI, Piotr 	+1 	 POL 	28 Nov 1995 	36 	255.00
+	133 	CRAWFORD, Clay 	-6 	 GBR 	26 Jan 1995 	18 	253.75
+	134 	BIRO, Andre 	-5 	 HUN 	29 Feb 1996 	21 	252.50
+	135 	PICHLER, David 	-3 	 AUT 	19 Feb 1996 	34 	250.00
+	136 	TENREIRO, Thomas Adriano 	-2 	 VEN 	09 Apr 1995 	25 	246.25
+	137 	LY, Nam Hoang 	-2 	 VIE 	25 Feb 1997 	20 	245.00
+	138 	CHRYSOCHOS, Petros 	-2 	 CYP 	08 Apr 1996 	26 	245.00
+	139 	MASSARA, Antonio 	+8 	 ITA 	16 Sep 1995 	20 	245.00
+	140 	BUTLER, Samm 	-3 	 GBR 	09 Feb 1995 	36 	243.75
+	141 	KARIMOV, Djurabeck 	-2 	 UZB 	04 Jun 1998 	27 	243.75
+	142 	ORTIZ, Adrian 	-2 	 MEX 	09 Jun 1995 	34 	242.50
+	143 	BARROSO CAMPOS, Alberto 	+80 	 ESP 	04 Jun 1996 	21 	242.50
+	144 	LEBEDYN, Alexander 	-3 	 UKR 	25 Apr 1996 	20 	241.25
+	145 	FRUNZA, Nicolae 	-3 	 ROU 	15 Nov 1997 	30 	240.00
+	146 	KALYUZHNYY, Vadym 	-15 	 UKR 	21 Dec 1995 	35 	240.00
+	147 	JAO, Chi-Shan 	-3 	 TPE 	28 May 1995 	33 	238.75
+	148 	MOLTKE-LETH, Andreas 	-3 	 DEN 	06 Jun 1995 	31 	238.75
+	149 	TAKAHASHI, Yusuke 	-3 	 JPN 	17 Oct 1997 	28 	237.50
+	150 	ASHLEY, Peter 	+9 	 GBR 	07 Aug 1996 	25 	236.25
+	151 	LIU, Siyu 	-3 	 CHN 	01 Nov 1995 	20 	233.75
+	152 	BRYMER, Gage 	-3 	 USA 	07 Feb 1995 	6 	233.75
+	153 	ARAGONE, JC 	-3 	 USA 	28 Jun 1995 	17 	230.00
+	154 	MARINO, Juan Sebastian 	-3 	 COL 	15 Jan 1995 	34 	230.00
+	155 	TORTRAKUL, Teeradon 	-3 	 THA 	29 Jan 1996 	30 	230.00
+	156 	AMIRI, Farzin Danny 	-3 	 USA 	04 Nov 1995 	50 	228.75
+	157 	GUCCIONE, Daniel 	-3 	 AUS 	26 Feb 1996 	20 	228.75
+	158 	ZLOBINSKY, Julian 	+2 	 USA 	08 Jan 1996 	34 	228.75
+	159 	CIVITA-TELLES, Leonardo 	-4 	 BRA 	14 Nov 1995 	33 	227.50
+	160 	NGUYEN HOANG, Thien 	-4 	 VIE 	12 Mar 1995 	34 	227.50
+	161 	VILLANUEVA, Gonzalo 	-4 	 ARG 	13 Jan 1995 	14 	227.50
+	162 	KYRATZIS, Sergis 	-4 	 CYP 	12 May 1995 	24 	226.25
+	163 	NUNEZ AGUILERA, Alan 	-2 	 MEX 	12 Dec 1995 	46 	225.00
+	164 	BAUMANN, Daniel 	-2 	 GER 	08 Feb 1995 	33 	225.00
+	165 	BUTSCH, Justin 	-2 	 USA 	07 Jan 1995 	33 	222.50
+	166 	DONALDSON, Jared 	-2 	 USA 	09 Oct 1996 	21 	222.50
+	167 	GAJEWSKI, Kamil 	+6 	 POL 	05 Feb 1995 	30 	222.50
+	168 	ALFONZO PAREDES, Andres 	-3 	 VEN 	17 Apr 1995 	31 	221.25
+	169 	HOCEVAR, Gabriel Vellinho 	-3 	 BRA 	30 Aug 1996 	23 	220.00
+	170 	ROSSIER, Simeon 	-2 	 SUI 	15 Jan 1995 	44 	220.00
+	171 	FUKUDA, Sora 	-2 	 JPN 	03 Oct 1997 	28 	217.50
+	172 	STANEK, Robin 	-2 	 CZE 	03 Jan 1995 	8 	216.25
+	173 	CATANZARITI, A.J. 	-2 	 USA 	21 Aug 1995 	25 	215.00
+	174 	AGARWAL, Rishab 	-2 	 IND 	05 Dec 1995 	34 	215.00
+	175 	VOLFSON, David 	-1 	 CAN 	14 Sep 1997 	28 	212.50
+	176 	GRESK, Phillip 	+5 	 POL 	18 Apr 1996 	37 	210.00
+	177 	MUNAR CLAR, Jaume Antoni 	+44 	 ESP 	05 May 1997 	16 	208.75
+	178 	MARKOVIC, Goran 	-3 	 SRB 	17 Sep 1995 	38 	207.50
+	179 	ZUKAS, Matias 	-3 	 ARG 	04 May 1996 	16 	206.25
+	180 	CASH, Julian 	-3 	 GBR 	29 Aug 1996 	29 	205.00
+	181 	KOSTIN, Viktor 	-3 	 GER 	12 Mar 1996 	30 	205.00
+	182 	POLAND-SMITH, Callum 	-3 	 GBR 	25 Apr 1995 	32 	205.00
+	183 	VEYS, Xander 	-3 	 BEL 	23 Feb 1996 	38 	205.00
+	184 	CHEN, Wei-Jen 	-2 	 TPE 	23 Jul 1995 	30 	205.00
+	185 	ROUTA, Marek 	-18 	 CZE 	21 Feb 1995 	13 	202.50
+	186 	CABEZAS, Andres 	-2 	 ECU 	12 Aug 1995 	24 	202.50
+	187 	PRITCHARD, Mitchell 	-2 	 AUS 	18 Feb 1996 	19 	201.25
+	188 	BILJESKO, Domagoj 	-2 	 CRO 	28 Jun 1997 	26 	201.25
+	189 	PAUL, Tommy 	+50 	 USA 	17 May 1997 	19 	201.25
+	190 	ALBARICI, Alexandre 	-3 	 BRA 	03 Feb 1995 	27 	200.00
+	191 	SANTILLAN, Akira 	-3 	 AUS 	22 May 1997 	22 	200.00
+	192 	GALYAMOV, Mikhail 	-3 	 RUS 	24 Aug 1995 	20 	200.00
+	193 	LOPEZ VILLASENOR, Gerardo 	-3 	 MEX 	12 May 1995 	32 	200.00
+	194 	SMILANSKY, Igor 	-3 	 ISR 	26 Mar 1995 	12 	198.75
+	195 	RYBAKOV, Alex 	+3 	 USA 	27 Jan 1997 	30 	198.75
+	196 	GEERTS, Michael 	-4 	 BEL 	17 Jan 1995 	29 	198.75
+	197 	SERDARUSIC, Nino 	+3 	 CRO 	13 Dec 1996 	35 	198.75
+	198 	DURASOVIC, Viktor 	-4 	 NOR 	19 Mar 1997 	30 	197.50
+	199 	LIUTAREVICH, Ivan 	-4 	 BLR 	20 Feb 1996 	30 	197.50
+	200 	NUNEZ FELIX, Diego Omar 	-7 	 MEX 	24 Mar 1995 	30 	196.25
+	201 	HUA, Runhao 	-5 	 CHN 	06 Mar 1996 	30 	195.00
+	202 	PENALOZA, Sebastian 	-5 	 CHI 	01 Apr 1995 	22 	195.00
+	203 	RIDOUT, Robbie 	-4 	 GBR 	19 Apr 1995 	33 	193.75
+	204 	OH, Chan-Yeong 	-2 	 KOR 	27 Jun 1998 	26 	192.50
+	205 	BUTTERS, Kyle 	+3 	 NZL 	05 Feb 1997 	20 	191.25
+	206 	POPOV, Joel 	+16 	 FIN 	31 Jul 1996 	31 	190.00
+	207 	RIZZUTI, Giovanni 	+28 	 ITA 	13 May 1995 	24 	188.75
+	208 	DISSANAYAKE, Sharmal 	-5 	 SRI 	14 May 1996 	16 	188.75
+	209 	ORAVEC, Jakub 	-5 	 SVK 	10 Apr 1995 	27 	187.50
+	210 	KOLISNYK, Olexiy 	-5 	 UKR 	30 Apr 1996 	32 	187.50
+	211 	AGARWAL, Aman 	-5 	 IND 	12 Jan 1996 	36 	187.50
+	212 	KAEWSUTO, Chayanon 	-5 	 THA 	16 Jun 1995 	21 	187.50
+	213 	BABIC, Zvonimir 	-4 	 CRO 	22 Oct 1995 	40 	185.00
+	214 	HARRIS, Billy 	+10 	 GBR 	25 Jan 1995 	28 	185.00
+	215 	YANG, Shao-Chi 	-5 	 TPE 	11 Jun 1996 	36 	185.00
+	216 	PELLEGRINO, Andrea 	-5 	 ITA 	23 Mar 1997 	26 	185.00
+	217 	BUSHAMUKA, William 	-5 	 COD 	24 Jan 1996 	27 	185.00
+	218 	MEDINILLA, Ricky 	-5 	 MEX 	24 Mar 1995 	26 	182.50
+	219 	SALMAN, Omar 	-18 	 BEL 	22 Apr 1996 	17 	182.50
+	220 	HOLM, Anders Arenfeldt 	-6 	 DEN 	20 Oct 1995 	31 	181.25
+	221 	STEFANINI, Jacopo 	+76 	 ITA 	11 Apr 1996 	16 	180.00
+	222 	KRALJEVIC, Filip 	-7 	 CRO 	14 Feb 1996 	34 	180.00
+	223 	KILANI, Majed 	-4 	 TUN 	01 Jan 1997 	40 	180.00
+	224 	MATSUYA, Toshiki 	-8 	 JPN 	05 May 1996 	32 	180.00
+	225 	URSU, Vadym 	-8 	 UKR 	01 Jan 1997 	31 	178.75
+	226 	ZHOU, Zhe 	-8 	 CHN 	19 Oct 1996 	25 	178.75
+	227 	BAUGHMAN, Deiton 	-7 	 USA 	23 Apr 1996 	10 	177.50
+	228 	VASA, Eero 	+15 	 FIN 	01 Feb 1997 	34 	172.50
+	229 	BUGAILISKIS, Mantas 	-3 	 LTU 	02 May 1996 	33 	172.50
+	230 	MOZGOVOY, Alexander 	+12 	 RUS 	04 Apr 1995 	17 	172.50
+	231 	KOROVIN, Mikhail 	-4 	 RUS 	26 Feb 1996 	32 	171.25
+	232 	ANDRIENKO, Fedor 	-3 	 RUS 	07 Feb 1995 	15 	170.00
+	233 	NOLAN, Daniel 	+38 	 AUS 	12 Mar 1997 	34 	170.00
+	234 	KLINTCHAROV, Alexander 	-4 	 NZL 	25 Aug 1996 	30 	170.00
+	235 	PERVOLARAKIS, Michail 	-4 	 CYP 	06 Jun 1996 	28 	170.00
+	236 	BATRA, Garvit 	-4 	 IND 	04 Apr 1997 	19 	170.00
+	237 	MNUSHKIN, Dmitry 	-4 	 RUS 	29 Apr 1996 	25 	170.00
+	238 	CONKIC, Petar 	-4 	 SRB 	17 May 1996 	22 	168.75
+	239 	IRADUKUNDA, Guy Orly 	-3 	 BDI 	21 Mar 1996 	32 	168.75
+	240 	MEKAWI, Bassem 	-3 	 EGY 	28 Jul 1995 	21 	168.75
+	241 	NASHATYRKIN, Roman 	-13 	 RUS 	24 May 1996 	26 	168.75
+	242 	LUCK, Joshua 	-4 	 RSA 	20 Nov 1995 	25 	168.75
+	243 	KELLERMAN, Okkie 	-3 	 RSA 	29 Jan 1997 	28 	167.50
+	244 	ZGOMBIC, Fran Zvonimir 	-3 	 CRO 	24 Jan 1996 	24 	165.00
+	245 	CHEN, Long 	-1 	 CHN 	18 May 1996 	19 	165.00
+	246 	MOEBIUS, Philip 	-1 	 SWE 	15 Oct 1996 	28 	165.00
+	247 	POPKO, Dmitry 	-1 	 KAZ 	24 Oct 1996 	14 	165.00
+	248 	MEPARIDZE, Shota 	0 	 GEO 	02 Apr 1996 	30 	163.75
+	249 	HURKACZ, Hubert 	0 	 POL 	11 Feb 1997 	21 	163.75
+	250 	MATSUMURA, Ryotaro 	0 	 JPN 	24 Sep 1996 	32 	162.50
+	251 	CONGCAR, Congsup 	0 	 THA 	21 Aug 1996 	35 	162.50
+	252 	JOHANSSON-HOLM, Jakob 	0 	 SWE 	15 May 1995 	16 	161.25
+	253 	ISSA, Gian 	0 	 SUR 	25 Feb 1995 	38 	161.25
+	254 	LIZEN, Aswin 	+1 	 GBR 	27 Feb 1996 	29 	160.00
+	255 	BOJADJIEVA, Serdar 	+1 	 SWE 	25 Jan 1995 	20 	158.75
+	256 	CHEPELEV, Alexandr 	-9 	 RUS 	28 May 1996 	26 	158.75
+	257 	TSOY, Pavel 	0 	 UZB 	19 Sep 1995 	15 	158.75
+	258 	BLUMBERG, William 	0 	 USA 	26 Jan 1998 	14 	158.75
+	259 	ZEPEDA, Andres 	0 	 MEX 	25 Feb 1995 	22 	157.50
+	260 	FANCUTT, Thomas 	0 	 AUS 	25 Feb 1995 	21 	157.50
+	261 	WONG, Chun Hun 	0 	 HKG 	30 Oct 1995 	10 	157.50
+	262 	LESHEM, EDAN 	0 	 ISR 	19 Mar 1997 	20 	157.50
+	263 	SALWAN, Karan 	0 	 IND 	07 Oct 1995 	14 	156.25
+	264 	LIN, Liang Yu Richard 	+88 	 TPE 	25 Nov 1997 	19 	156.25
+	265 	GAMBLE, Luke Jacob 	+1 	 USA 	18 Apr 1995 	27 	153.75
+	266 	CHOINSKI, Jan 	+2 	 GER 	10 Jun 1996 	29 	153.75
+	267 	FATAEL, Ben 	+2 	 ISR 	02 Jun 1997 	16 	153.75
+	268 	QIU, Zhuoyang 	+40 	 CHN 	23 Jun 1996 	23 	152.50
+	269 	JONCOUR, Ronan 	+23 	 FRA 	27 Jan 1997 	34 	152.50
+	270 	COZBINOV, Alexander 	-3 	 MDA 	28 Apr 1995 	26 	152.50
+	271 	HUTTERER, Gregor 	+14 	 AUT 	15 Apr 1995 	34 	152.50
+	272 	ADANALI, Mert 	-8 	 TUR 	05 Jan 1996 	32 	152.50
+	273 	AYAP, Sagadat 	-1 	 KAZ 	25 May 1995 	32 	152.50
+	274 	GLYNN, Adam 	-1 	 GBR 	11 May 1996 	16 	152.50
+	275 	HALBAUER, Drew 	-10 	 USA 	27 Mar 1995 	34 	152.50
+	276 	LIM , Alberto 	-2 	 PHI 	18 May 1999 	19 	151.25
+	277 	VIVES, Diego 	-2 	 CHI 	21 Jun 1995 	26 	151.25
+	278 	VAN RIJTHOVEN, Tim 	-2 	 NED 	24 Apr 1997 	15 	151.25
+	279 	PARIS, Joshua 	-2 	 GBR 	06 Mar 1996 	20 	151.25
+	280 	RESTREPO, Javier 	-10 	 USA 	14 Apr 1996 	38 	150.00
+	281 	GOLDENGOREN, Tal 	-3 	 ISR 	16 Apr 1996 	15 	150.00
+	282 	MALIK, Jamie 	-3 	 GBR 	02 Aug 1996 	25 	150.00
+	283 	BAKSHI, Aleksandre 	+44 	 GEO 	15 Jul 1997 	17 	150.00
+	284 	GONCALVES, Christofer Daniel 	-4 	 VEN 	19 Sep 1996 	26 	148.75
+	285 	WANG, Aoran 	-4 	 CHN 	05 Feb 1997 	24 	148.75
+	286 	OSMAKCIC, Marko 	-4 	 SUI 	10 Aug 1998 	24 	148.75
+	287 	MUSCHEITES, LASSE 	-4 	 GER 	25 Apr 1996 	15 	148.75
+	288 	SUN, Fajing 	-63 	 CHN 	03 Oct 1996 	31 	147.50
+	289 	PANAK, Yvo 	+24 	 CZE 	21 Aug 1995 	42 	147.50
+	290 	DUBROV, Anton 	-6 	 BLR 	18 Jun 1995 	18 	147.50
+	291 	SAPWELL, Joshua 	-5 	 GBR 	01 Mar 1996 	20 	146.25
+	292 	TAMIMOUNT, Youssef 	+31 	 MAR 	07 Apr 1995 	25 	146.25
+	293 	SAVELJIC, Igor 	-6 	 MNE 	17 Aug 1995 	38 	143.75
+	294 	MARTINEZ MARTINEZ, Jorge 	-6 	 ESP 	23 Sep 1995 	19 	143.75
+	295 	MZAI, Ismael Changawa Ruwa 	-6 	 KEN 	26 Jun 1996 	20 	143.75
+	296 	MOLCAN, Alex 	-6 	 SVK 	01 Dec 1997 	21 	143.75
+	297 	MARQUARD, Luca 	-6 	 GER 	12 Apr 1995 	21 	143.75
+	298 	WEIRATHER, Thomas 	-5 	 LIE 	17 May 1995 	36 	142.50
+	299 	KELLERMAN, Francois 	-4 	 RSA 	29 Jan 1997 	28 	142.50
+	300 	LAM, Siu Chuen 	-4 	 HKG 	17 May 1996 	26 	142.50
+	301 	RAMDANI, Nuradim 	-3 	 INA 	06 Mar 1995 	24 	141.25
+	302 	MATHESON, William 	+19 	 NZL 	03 Apr 1997 	20 	141.25
+	303 	DESHMUKH, Sahil 	-4 	 IND 	13 Jan 1997 	25 	141.25
+	304 	GRIEKSPOOR, Tallon 	-4 	 NED 	02 Jul 1996 	28 	141.25
+	305 	HOROZ, Alp 	-4 	 TUR 	28 Apr 1995 	19 	140.00
+	306 	STEVENS, Simon 	-52 	 BEL 	02 Feb 1996 	21 	140.00
+	307 	LEE, Kuan-Yi 	-5 	 TPE 	09 Sep 1996 	23 	140.00
+	308 	ETCHEVERRY, Daniel 	-5 	 CHI 	15 Feb 1995 	41 	140.00
+	309 	TAYLOR, Samuel 	+66 	 GBR 	04 Jul 1995 	32 	140.00
+	310 	HOBGARSKI, Christopher 	-6 	 GER 	02 Jan 1995 	17 	140.00
+	311 	CHEN, Xin 	+7 	 CHN 	04 Aug 1996 	27 	138.75
+	312 	SHCHERBA, Vitalii 	-7 	 UKR 	24 Mar 1997 	29 	138.75
+	313 	NAKAMURA, Ren 	-7 	 JPN 	31 Jan 1995 	16 	138.75
+	314 	SALBIEV, Timur 	-7 	 RUS 	28 Jul 1995 	33 	138.75
+	315 	GAMAL EL DIN, Omar 	-6 	 EGY 	05 Nov 1996 	15 	137.50
+	316 	REYNOLDS, Christopher 	+17 	 GBR 	10 Jul 1996 	42 	137.50
+	317 	PIMENTEL, Wilder 	-7 	 PER 	14 May 1996 	22 	137.50
+	318 	ILIC, Luka 	-7 	 SRB 	10 Mar 1995 	10 	137.50
+	319 	NIKLAS-SALMINEN, Patrik 	-7 	 FIN 	05 Mar 1997 	31 	137.50
+	320 	ROSKILLY, Lewis 	-6 	 GBR 	07 Apr 1996 	25 	137.50
+	321 	LIANG, Wen-Chun 	-6 	 TPE 	18 Jul 1995 	20 	137.50
+	322 	STRIZHKOV, Konstantin 	-6 	 RUS 	27 Mar 1995 	21 	137.50
+	323 	CARLI, Cristian 	-6 	 ITA 	25 Mar 1996 	23 	137.50
+	324 	MORITZ, Philipp 	+41 	 AUT 	13 May 1995 	28 	136.25
+	325 	TABILO, Alejandro 	+4 	 CAN 	02 Jun 1997 	28 	136.25
+	326 	CHUNG, Yunseong 	-7 	 KOR 	27 Mar 1998 	22 	136.25
+	327 	KLOS, Pascal 	-7 	 POL 	17 Sep 1995 	24 	136.25
+	328 	KOAYKUL, Krittin 	-4 	 THA 	31 Mar 1995 	15 	135.00
+	329 	NUNEZ, Dylan 	-35 	 USA 	31 Oct 1995 	34 	135.00
+	330 	WALKOW, Szymon 	+10 	 POL 	22 Sep 1995 	31 	135.00
+	331 	ABDUL RAZAK, Ahmed Deedat 	-5 	 MAS 	18 Jun 1995 	18 	135.00
+	332 	STEFANIK, Jake 	-4 	 USA 	05 Jan 1996 	21 	133.75
+	333 	SAVELJIC, Ivan 	-3 	 MNE 	17 Aug 1995 	38 	133.75
+	334 	WANG, Huixin 	-12 	 CHN 	04 Aug 1996 	30 	133.75
+	335 	SADLER, Olly 	-4 	 NZL 	11 Oct 1995 	26 	133.75
+	336 	THOMSON, Bjorn 	+51 	 IRL 	31 Oct 1997 	23 	133.75
+	337 	STOUTE, Isaac 	-5 	 GBR 	12 Apr 1996 	28 	133.75
+	338 	PETRENKO, Anatoliy 	-4 	 UKR 	04 Dec 1995 	46 	132.50
+	339 	LO, Chien Hsun 	+44 	 TPE 	15 Nov 1998 	27 	132.50
+	340 	PURCELL, Rhett 	+5 	 GBR 	06 Feb 1996 	27 	131.25
+	341 	KRSTEV, ONDREJ 	-6 	 CZE 	13 Jun 1997 	28 	131.25
+	342 	SHAIKH, Abdullah 	-6 	 IND 	16 Jan 1995 	16 	131.25
+	343 	DUBINSKI, Artur 	-6 	 BLR 	27 Mar 1996 	16 	131.25
+	344 	FAVROT, Alexandre 	-6 	 FRA 	24 Feb 1995 	8 	130.00
+	345 	MONROE, Shane 	-6 	 USA 	02 Sep 1995 	26 	130.00
+	346 	ERNEPESOV, Aleksandr 	-5 	 TKM 	27 Feb 1995 	16 	130.00
+	347 	BUBLIK, Alexander 	-5 	 RUS 	17 Jun 1997 	34 	130.00
+	348 	CARVAJAL JURADO, Juan Sebastian 	-4 	 ECU 	26 Apr 1995 	18 	128.75
+	349 	HARRIS, Lloyd George Muirhead 	-3 	 RSA 	24 Feb 1997 	18 	128.75
+	350 	LOCK, Courtney John 	-3 	 ZIM 	18 Oct 1996 	24 	127.50
+	351 	GIL, Jose Pablo 	-3 	 CRC 	10 Apr 1995 	39 	126.25
+	352 	TERCZYNSKI, MATEUSZ 	+47 	 POL 	02 Mar 1996 	31 	126.25
+	353 	LI, Hei Yin Andrew 	+17 	 HKG 	28 Mar 1997 	22 	126.25
+	354 	PRECHTEL, Sebastian 	-5 	 GER 	14 May 1996 	26 	126.25
+	355 	HIZLIALP, CEM 	-12 	 TUR 	18 Mar 1996 	33 	126.25
+	356 	BUENO TAPIA, Jaime Ignacio 	-6 	 CHI 	24 Jan 1995 	9 	125.00
+	357 	OSTERLING, Nicholas 	-4 	 PER 	07 Feb 1995 	22 	123.75
+	358 	TORRES, Andres 	-3 	 COL 	16 Apr 1996 	33 	123.75
+	359 	VAN LEIJSEN, Bart 	-5 	 NED 	29 Nov 1995 	27 	123.75
+	360 	BARYSHEV, Sergey 	0 	 RUS 	04 Dec 1996 	40 	122.50
+	361 	KHABIBULIN, Timur 	-4 	 KAZ 	02 Aug 1995 	12 	122.50
+	362 	SANTIBANEZ, Sebastian 	-4 	 CHI 	15 Apr 1996 	36 	121.25
+	363 	REY, Sebastian 	-4 	 GBR 	27 Mar 1995 	18 	121.25
+	364 	CZEPIELEWSKI, Daniel 	-3 	 GER 	21 Apr 1996 	40 	121.25
+	365 	PONWITH, Nathan 	+30 	 USA 	20 Apr 1998 	22 	121.25
+	366 	MAZOR, Noam 	-4 	 ISR 	25 Jun 1995 	18 	121.25
+	367 	KEKERCHENI, Filipp 	-4 	 UKR 	10 Aug 1995 	10 	120.00
+	368 	SOLOMON, Grant 	-4 	 USA 	03 Apr 1995 	10 	120.00
+	369 	YU, Shao-Yu 	-3 	 TPE 	24 Feb 1997 	30 	120.00
+	370 	LAMBERTI, Edoardo 	-3 	 ITA 	28 Jun 1996 	16 	120.00
+	371 	ZEMAITELIS, Kasparas 	-3 	 LTU 	05 Oct 1995 	31 	118.75
+	372 	TAYLOR, Shaquille Montel 	-16 	 BAH 	04 Aug 1995 	25 	118.75
+	373 	DELANEY, Jake 	-2 	 AUS 	14 May 1997 	27 	118.75
+	374 	APPELGREN, Daniel 	-2 	 SWE 	06 May 1996 	22 	118.75
+	375 	GRILLS, Jacob 	-2 	 AUS 	18 Jun 1995 	12 	118.75
+	376 	KHMIADASHVILI, Mikheil 	0 	 GEO 	24 Mar 1995 	17 	117.50
+	377 	LAZDINS, Arturs 	-3 	 LAT 	09 Apr 1997 	28 	117.50
+	378 	PAK, Ho Hin 	-1 	 HKG 	03 May 1996 	32 	117.50
+	379 	CELIKBILEK, Altug 	+28 	 TUR 	07 Sep 1996 	27 	117.50
+	380 	MOULINE, Soufiane 	+84 	 MAR 	14 Mar 1995 	15 	116.25
+	381 	VELASCO, Allan 	-3 	 ECU 	23 Jul 1996 	28 	116.25
+	382 	ISAROW, Pruchya 	-3 	 THA 	16 Oct 1995 	9 	116.25
+	383 	SMITH, Logan 	-58 	 USA 	29 Oct 1996 	11 	115.00
+	384 	IANAKIEV, Milen 	-4 	 GER 	20 Jul 1995 	33 	115.00
+	385 	PLATZER, Jason Peter 	-34 	 AUT 	21 Jan 1995 	31 	115.00
+	386 	IOANNIDES, Constantinos 	-4 	 CYP 	07 Jun 1995 	24 	115.00
+	387 	KIJAMETOVIC, Aziz 	-3 	 BIH 	01 Sep 1996 	16 	115.00
+	388 	LOPEZ SAN MARTIN, Alvaro 	+555 	 ESP 	02 Jun 1997 	7 	113.75
+	389 	LANGMO, Christian 	-20 	 USA 	01 Jun 1996 	23 	113.75
+	390 	ILIA, Konstantinos 	-5 	 CYP 	10 May 1995 	14 	113.75
+	391 	CEVALLOS, Santiago 	-5 	 MEX 	30 Dec 1995 	33 	113.75
+	392 	GAO, Juntong 	-4 	 CHN 	09 Jan 1996 	25 	113.75
+	393 	IAMACHKINE, Pedro 	-4 	 PER 	03 Apr 1996 	23 	112.50
+	394 	RONCALLI, SIMONE 	+9 	 ITA 	08 May 1996 	32 	112.50
+	395 	PEREIRA, Rodolfo 	-4 	 POR 	30 Jan 1995 	21 	112.50
+	396 	LIN, Carter 	-4 	 USA 	12 Feb 1996 	19 	111.25
+	397 	JANGLIN, Oscar 	-4 	 SWE 	19 Jan 1997 	40 	111.25
+	398 	RATNIUK, Maxim 	-4 	 UKR 	28 Apr 1996 	18 	111.25
+	399 	QI, Xi 	-18 	 CHN 	09 Aug 1996 	18 	111.25
+	400 	XU, Shuai 	-3 	 CHN 	30 Jan 1996 	18 	111.25
+	401 	HUANG, Jun Wei 	-11 	 CHN 	10 Dec 1996 	21 	111.25
+	402 	SPEC, Matic 	-6 	 SLO 	26 Feb 1995 	28 	110.00
+	403 	CHESSARI, Riccardo 	+58 	 ITA 	09 May 1996 	29 	110.00
+	404 	JAMES, Yannik 	-6 	 GRN 	21 Nov 1995 	27 	108.75
+	405 	WATSON, Stephen L. 	+118 	 USA 	21 Apr 1995 	10 	107.50
+	406 	KASAHARA, Shoki 	-6 	 JPN 	15 May 1996 	24 	107.50
+	407 	KHUMA, Basil 	-6 	 IND 	24 Mar 1998 	20 	107.50
+	408 	WU, Tung-lin 	-6 	 TPE 	12 May 1998 	24 	107.50
+	409 	KICHIGIN, Vasiliy 	-5 	 RUS 	17 Jan 1995 	29 	106.25
+	410 	HINNISDAELS, Maxime 	-5 	 BEL 	20 Mar 1995 	10 	106.25
+	411 	HAJDU-ANDERSSON, Noah 	-5 	 NOR 	22 Mar 1995 	27 	106.25
+	412 	ZATAR, Ayed 	-4 	 PAR 	29 Mar 1996 	30 	105.00
+	413 	CUTULI, MIRKO 	+111 	 ITA 	16 May 1996 	17 	105.00
+	414 	MOGHINI, Gabriele 	+8 	 SUI 	26 Jun 1996 	31 	105.00
+	415 	GJOELS ANDERSEN, Sander 	-6 	 DEN 	16 Dec 1995 	27 	105.00
+	416 	ANDERSON, Oliver 	-6 	 AUS 	30 Apr 1998 	7 	103.75
+	417 	DE PAEPE, Sam 	-5 	 BEL 	20 Feb 1995 	22 	103.75
+	418 	GUO, Tianjia 	-5 	 CHN 	05 Dec 1996 	26 	103.75
+	419 	BATALJIN, Lawrence 	-5 	 AUS 	22 May 1996 	18 	103.75
+	420 	HANNESTAD, Benjamin 	-5 	 DEN 	14 Feb 1997 	20 	103.75
+	421 	GONZALEZ , Stefan Emilio 	-5 	 GUA 	05 Oct 1995 	34 	103.75
+	422 	MARTINEZ PORTERO, Pedro 	-5 	 ESP 	26 Apr 1997 	14 	102.50
+	423 	DUNCAN, Walker 	-5 	 USA 	07 May 1996 	24 	102.50
+	424 	ITO, Yuya 	-5 	 JPN 	09 Jan 1997 	16 	102.50
+	425 	THEODOROU, Eleftherios 	-5 	 GRE 	19 Jul 1996 	26 	102.50
+	426 	LOUREIRO, Goncalo 	-5 	 POR 	06 Apr 1995 	11 	101.25
+	427 	STAVROPOULOS, Vasilios 	+62 	 GRE 	15 Sep 1995 	32 	101.25
+	428 	LARRIERE, Clement 	-5 	 FRA 	21 May 1997 	18 	101.25
+	429 	KATO, Shoma 	-5 	 JPN 	04 Oct 1997 	24 	101.25
+	430 	STRIDE, Ben 	-5 	 GBR 	03 Jan 1996 	23 	101.25
+	431 	VAN DER LANS, Fabian 	-5 	 NED 	29 Oct 1995 	21 	100.00
+	432 	MAJOR, Kevin 	+64 	 BAH 	25 Mar 1995 	19 	100.00
+	433 	MEYER, Alexander 	-6 	 GER 	12 Apr 1996 	20 	100.00
+	434 	RAZMAITOV, Timur 	-6 	 RUS 	10 Apr 1997 	23 	100.00
+	435 	SOEMARNO, Armando C. 	-6 	 INA 	31 May 1996 	37 	100.00
+	436 	GUITARRARI, Lucas Meirelles 	-6 	 BRA 	20 Jul 1995 	16 	100.00
+	437 	BERRETTINI, Matteo 	-6 	 ITA 	12 Apr 1996 	15 	100.00
+	438 	RECCI, Mason 	+101 	 GBR 	23 Jan 1997 	23 	98.75
+	439 	BLASKO, Martin 	-7 	 SVK 	07 Jan 1996 	18 	98.75
+	440 	ARUS, Rodrigo 	-7 	 URU 	20 Feb 1995 	22 	98.75
+	441 	PAZ, Juan Pablo 	-7 	 ARG 	04 Jan 1995 	7 	97.50
+	442 	KOVAL, Oleg 	-31 	 UKR 	14 Oct 1995 	32 	97.50
+	443 	LIN, Wei-De 	-8 	 TPE 	05 Feb 1996 	33 	97.50
+	444 	KRAYNIKOVSKIY, Vasiliy 	-8 	 RUS 	06 May 1996 	42 	97.50
+	445 	KESTELBOIM, Mariano 	-8 	 ARG 	06 Feb 1996 	10 	97.50
+	446 	KURBATOV, Oleg 	-8 	 RUS 	09 Feb 1995 	30 	97.50
+	447 	MAJOR, Philip Wilbert 	-5 	 BAH 	02 Mar 1996 	24 	97.50
+	448 	SIERRA, Santiago 	-9 	 MEX 	09 Feb 1995 	38 	97.50
+	449 	FILIPSKY, Jakub 	-9 	 CZE 	12 Jun 1995 	12 	96.25
+	450 	SAPLIN, Kirill 	-9 	 RUS 	21 Jun 1995 	6 	96.25
+	451 	FREUND, SIMON 	+19 	 SWE 	28 Sep 1996 	16 	96.25
+	452 	TAYLOR, Sam 	-9 	 SWE 	03 Jul 1997 	19 	96.25
+	453 	RAKOTOMALALA, Mandresy 	+1 	 FRA 	27 May 1997 	26 	96.25
+	454 	ROMERO DE AVILA SENISE, Alberto 	+81 	 ESP 	03 Dec 1997 	7 	95.00
+	455 	HAN, Jin Sung 	-11 	 KOR 	03 Aug 1995 	16 	95.00
+	456 	BATANOV, Nikolay 	-11 	 RUS 	03 Feb 1997 	21 	95.00
+	457 	FALLERT, Fabian 	-11 	 GER 	12 May 1997 	16 	93.75
+	458 	LAM, Chak Pong Marco 	-11 	 HKG 	01 Oct 1996 	26 	93.75
+	459 	HUANG, Yi-Wei 	-11 	 TPE 	21 Jun 1996 	23 	93.75
+	460 	SLOBODKINS, Arkadijs 	-11 	 LAT 	31 Jan 1996 	18 	93.75
+	461 	TEPSIC, Miladin 	-11 	 AUS 	06 Feb 1995 	13 	93.75
+	462 	ABIYEV, Kuatbek 	-11 	 KAZ 	04 Jan 1995 	25 	93.75
+	463 	SERTKAYA, Egehan 	+6 	 TUR 	27 Apr 1996 	30 	93.75
+	464 	DODRIDGE, JOSEF 	-12 	 GBR 	30 May 1996 	17 	93.75
+	465 	INOUE, Haru 	-12 	 JPN 	20 Jul 1996 	22 	93.75
+	466 	AL OBAIDLY, Naser 	-11 	 KUW 	11 Mar 1995 	16 	93.75
+	467 	NAJI, Khalil 	-11 	 MAR 	27 Dec 1995 	12 	92.50
+	468 	VASILYEV, Ilya 	-11 	 RUS 	22 Jun 1996 	31 	92.50
+	469 	WONG, Colin Wei Ming 	-11 	 MAS 	08 Jan 1996 	23 	92.50
+	470 	TAKAMURA, Yuki 	-11 	 JPN 	10 Jan 1998 	22 	92.50
+	471 	YANG, Junhao 	-11 	 CHN 	10 Jan 1995 	33 	92.50
+	472 	MERAUT, Tristan 	-10 	 FRA 	27 Dec 1995 	12 	91.25
+	473 	SHERIF, Youssef 	-8 	 EGY 	14 Jun 1996 	18 	91.25
+	474 	LU, Chang-Wu 	-8 	 TPE 	17 May 1996 	22 	91.25
+	475 	BORZA, Bogdan 	-8 	 ROU 	05 Apr 1997 	23 	91.25
+	476 	SAMUELSSON, Christian 	-8 	 SWE 	09 Jan 1996 	23 	91.25
+	477 	MOUNDIR, Adam 	-6 	 SUI 	26 Apr 1995 	15 	91.25
+	478 	CIORCILA, Patrick 	-6 	 ROU 	20 Sep 1996 	7 	90.00
+	479 	DERKAS, Zdenek 	-6 	 CZE 	30 Apr 1996 	16 	90.00
+	480 	TANZA, Matthew 	-6 	 AUS 	22 May 1996 	6 	90.00
+	481 	NOUCHI, Kennosuke 	-6 	 JPN 	27 Apr 1997 	22 	90.00
+	482 	DEMBEK, Michal 	-6 	 POL 	07 Aug 1997 	14 	90.00
+	483 	MOSCIATTI, Marco 	-6 	 ITA 	16 Jul 1997 	22 	90.00
+	484 	AGABIGUN, Sarp 	-6 	 TUR 	12 Jun 1997 	28 	90.00
+	485 	ZHANG, Zhizhen 	-6 	 CHN 	16 Oct 1996 	6 	88.75
+	486 	DENOLLY , Corentin 	-6 	 FRA 	06 Jun 1997 	8 	88.75
+	487 	TEKAVEC, Maks 	-6 	 SLO 	22 Mar 1996 	19 	88.75
+	488 	RAUCH, Felix 	-6 	 GER 	03 Jun 1996 	21 	88.75
+	489 	GUILLIN, Joseph 	-6 	 FRA 	24 Apr 1997 	21 	88.75
+	490 	BENDRE, Anvit 	-6 	 IND 	27 Feb 1995 	30 	87.50
+	491 	PAVLOV, Anton 	-6 	 EST 	04 Aug 1995 	27 	87.50
+	492 	DAY, Alexander 	-6 	 CAN 	10 Sep 1995 	23 	87.50
+	493 	BENITEZ CHAVARRIAGA, Juan Manuel 	-6 	 COL 	22 Sep 1995 	6 	87.50
+	494 	SCHEPELEV, Anton 	-6 	 RUS 	13 Dec 1996 	14 	86.25
+	495 	KOSHELEV, Ilya 	-5 	 RUS 	22 Feb 1995 	17 	86.25
+	496 	CARGILL, Christian 	-5 	 BAH 	14 Aug 1996 	20 	86.25
+	497 	CHEN, Han Yu 	-5 	 TPE 	02 May 1997 	30 	86.25
+	498 	VAN DE ZANDSCHULP, Botic 	-5 	 NED 	04 Oct 1995 	7 	85.00
+	499 	KLOK, Denys 	-5 	 UKR 	26 May 1998 	15 	85.00
+	500 	JOVER MAESTRE, Javier 	-5 	 ESP 	25 Mar 1995 	23 	85.00
