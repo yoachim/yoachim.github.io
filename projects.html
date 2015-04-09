@@ -8,11 +8,9 @@ title: Projects
     <h1 class"post-title"> {{project.Name}} </h1>
 
 <div class="contain">    
-  <div style="float: right;" >
-    <center>
-      <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300"></a> 
-      {{ project.Caption  | markdownify }} {{project.repoLink | markdownify }}
-    </center>
+  <div style="float:right;width:300 px; font-size:80%;text-align:center;display:table;" >
+    <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300" style="padding-bottom:0.5em;display:block;"></a> 
+    <div style="display:table-caption;caption-side:bottom;padding: 0 5px 5px;">{{ project.Caption  | markdownify }} {{project.repoLink | markdownify }} </div>
   </div>
   {{ project.Text | markdownify }}
   <div style="clear: both"></div>
