@@ -1,15 +1,15 @@
 
 - Name: LSST Sky Background
-  Image: ack1.png
-  Caption: here's some caption text
-  repoLink: http://github.com
+  Image: ut011314.0648.long.jpg
+  Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. <pew> <pew>.
+  repoLink: comming soon to [http://github.com](http://github.com)
   Text: >
     blah blah blah.
 
 - Name: LSST Scheduler Analysis
   Image: thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
   Caption: Visualizing how LSST will point over 10 years
-  repoLink: " "
+  repoLink: Contribute your own survey metrics at [https://github.com/LSST-nonproject/sims_maf_contrib](https://github.com/LSST-nonproject/sims_maf_contrib)
   Text: >
     I've been working with the Opsim group to blah blah
 
@@ -55,7 +55,7 @@
   Caption: A plot of the
   repoLink: " "
   Text: >
-    Used VIRUS-P to observe a bunch of nearby galaxies 
+    Used VIRUS-P to observe a bunch of nearby galaxies <br> [Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97 ](http://arxiv.org/abs/1204.0026) <br> [IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4](http://arxiv.org/abs/1005.0851) 
 
 - Name: Cepheid Variables
   Image: cephLC.png
