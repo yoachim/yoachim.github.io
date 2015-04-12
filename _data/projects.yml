@@ -1,7 +1,7 @@
 
 - Name: LSST Sky Background
   Image: ut011314.0648.long.jpg
-  Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. <pew> <pew>.
+  Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
   repoLink: comming soon to [http://github.com](http://github.com)
   Text: >
     blah blah blah.
