@@ -1,57 +1,57 @@
 
 - Name: LSST Sky Background
-  Image: ut011314.0648.long.jpg
+  Image: /assets/projects/ut011314.0648.long.jpg
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
-  repoLink: comming soon to [http://github.com](http://github.com)
+  repoLink: Coming soon to [http://github.com](http://github.com)
   Text: >
-    blah blah blah.
+   I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  
 
 - Name: LSST Scheduler Analysis
-  Image: thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
-  Caption: Visualizing how LSST will point over 10 years
-  repoLink: Contribute your own survey metrics at [https://github.com/LSST-nonproject/sims_maf_contrib](https://github.com/LSST-nonproject/sims_maf_contrib)
+  Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
+  Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
+  repoLink: " "
   Text: >
-    I've been working with the Opsim group to blah blah
+    I've been working with the Opsim group to blah blah. Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
 
 - Name: Giant Low Surface Brightness Galaxies
-  Image: glsb.png
-  Caption: here's a fancy pic of a GLSB galaxy
+  Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
+  Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of obsreving time on a 0.6m telescope!
   repoLink: >
     [fork it here](http://github.com)
   Text: >
-    blah **blah** blah.
+    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observaotory and GMOS at Gemini North.
 
 - Name: LSST Photometric Uber-Calibration
-  Image: ubercal.png
+  Image: /assets/projects/ubercal.png
   Caption: ubercal is cool
-  repoLink: " "
+  repoLink: Coming soon to [http://github.com](http://github.com)
   Text: >
     fun with ubercal.
 
 - Name: Astronomer Hiring Network
-  Image: paperNetwork.png
-  Caption: My paper network from ADS
+  Image: /assets/projects/paperNetwork.png
+  Caption: My paper network as visualized by ADS
   repoLink: >
     [Fork it here!](https://github.com/yoachim/AstroHireNetwork)
   Text: >
     I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  
 
 - Name: PyEmoji
-  Image: emojiScreen.png
+  Image: /assets/projects/emojiScreen.png
   Caption: Because I can
   repoLink: https://github.com/yoachim/pyemoji
   Text: >
     The sheer absurdity of emoji amuses me.  I couldn't find a decent english 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
 
 - Name: Satellite Galaxies
-  Image: M106.jpg
+  Image: /assets/projects/M106.jpg
   Caption: SDSS image of M106 from [this great gallery](http://cosmo.nyu.edu/hogg/rc3/).
   repoLink: " "
   Text: >
     Satellite galaxies are neato.
 
 - Name: Stellar Radial Migration
-  Image: radialMigration.png
+  Image: /assets/projects/radialMigration.png
   Caption: A plot of the
   repoLink: " "
   Text: >
@@ -63,7 +63,7 @@
 
 
 - Name: Cepheid Variables
-  Image: cephLC.png
+  Image: /assets/projects/cephLC.png
   Caption: light curves from xxx et al
   repoLink: " "
   Text: >
@@ -73,7 +73,7 @@
     XXX-add links to papers.
 
 - Name: Thick Disks
-  Image: thick_disk.png
+  Image: /assets/projects/thick_disk.png
   Caption: B-R image of an edge-on disk galaxy
   repoLink: " "
   Text: >

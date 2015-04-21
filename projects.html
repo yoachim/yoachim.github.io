@@ -9,7 +9,7 @@ title: Projects
 
 <div class="contain">    
   <div style="float:right;width:300 px; font-size:80%;text-align:center;display:table;" >
-    <a href="/assets/projects/{{ project.Image }}" ><img src="/assets/projects/{{ project.Image }}" width="300" style="padding-bottom:0.5em;display:block;"></a> 
+    <a href="{{ project.Image }}" ><img src="{{ project.Image }}" width="300" style="padding-bottom:0.5em;display:block;"></a> 
     <div style="display:table-caption;caption-side:bottom;padding: 0 5px 5px;">{{ project.Caption  | markdownify }} {{project.repoLink | markdownify }} </div>
   </div>
   {{ project.Text | markdownify }}
