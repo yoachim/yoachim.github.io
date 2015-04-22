@@ -16,13 +16,12 @@
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
   Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of obsreving time on a 0.6m telescope!
-  repoLink: >
-    [fork it here](http://github.com)
+  repoLink: ""
   Text: >
     I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observaotory and GMOS at Gemini North.
 
 - Name: LSST Photometric Uber-Calibration
-  Image: /assets/projects/ubercal.png
+  Image: /assets/projects/selfcal.png
   Caption: ubercal is cool
   repoLink: Coming soon to [http://github.com](http://github.com)
   Text: >
@@ -51,7 +50,7 @@
     Satellite galaxies are neato.
 
 - Name: Stellar Radial Migration
-  Image: /assets/projects/radialMigration.png
+  Image: /assets/projects/radMigration.png
   Caption: A plot of the
   repoLink: " "
   Text: >
