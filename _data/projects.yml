@@ -9,21 +9,21 @@
 - Name: LSST Scheduler Analysis
   Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
   Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
-  repoLink: " "
+  repoLink:[Fork it here](https://github.com/lsst/sims_maf)
   Text: >
-    I've been working with the Opsim group to blah blah. Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
+    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  A typical 10-year LSST survey includes 2.5 million visits.  Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
 
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
   Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of obsreving time on a 0.6m telescope!
   repoLink: ""
   Text: >
-    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observaotory and GMOS at Gemini North.
+    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.
 
 - Name: LSST Photometric Uber-Calibration
   Image: /assets/projects/selfcal.png
   Caption: ubercal is cool
-  repoLink: Coming soon to [http://github.com](http://github.com)
+  repoLink: [fork it here](https://github.com/lsst/sims_selfcal)
   Text: >
     fun with ubercal.
 
