@@ -1,17 +1,9 @@
-
 - Name: LSST Sky Background
   Image: /assets/projects/ut011314.0648.long.jpg
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
   repoLink: Coming soon to [http://github.com](http://github.com)
   Text: >
    I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  
-
-- Name: LSST Scheduler Analysis
-  Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
-  Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
-  repoLink:[Fork it here](https://github.com/lsst/sims_maf)
-  Text: >
-    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  A typical 10-year LSST survey includes 2.5 million visits.  Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
 
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
@@ -20,12 +12,13 @@
   Text: >
     I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.
 
-- Name: LSST Photometric Uber-Calibration
-  Image: /assets/projects/selfcal.png
-  Caption: ubercal is cool
-  repoLink: [fork it here](https://github.com/lsst/sims_selfcal)
+- Name: OpSim Scheduler Analysis
+  Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
+  Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
+  repoLink: >
+    [Fork it here](https://github.com/lsst/sims_maf)
   Text: >
-    fun with ubercal.
+    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  A typical 10-year LSST survey includes 2.5 million visits.  Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
 
 - Name: Astronomer Hiring Network
   Image: /assets/projects/paperNetwork.png
@@ -41,6 +34,15 @@
   repoLink: https://github.com/yoachim/pyemoji
   Text: >
     The sheer absurdity of emoji amuses me.  I couldn't find a decent english 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
+
+- Name: LSST Photometric Uber-Calibration
+  Image: /assets/projects/selfcal.png
+  Caption: ubercal is cool
+  repoLink: >
+    [Fork it here!](https://github.com/lsst/sims_selfcal)
+  Text: >
+    fun with ubercal.
+
 
 - Name: Satellite Galaxies
   Image: /assets/projects/M106.jpg
@@ -83,3 +85,4 @@
       &#8226; <a href="http://xxx.lanl.gov/abs/0805.4197">Lick Indices in the Thin and Thick Disks of Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2008 ApJ</a> <br> 
       &#8226; <a href="http://arxiv.org/abs/0804.3966">The Kinematics of Thick Disks in Nine External Galaxies, Peter Yoachim &Julianne J. Dalcanton, 2008 ApJ </a> 
     </font>
+
