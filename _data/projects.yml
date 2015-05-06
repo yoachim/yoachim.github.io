@@ -3,14 +3,14 @@
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
   repoLink: Coming soon to [http://github.com](http://github.com)
   Text: >
-   I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  
+   I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  This will include emission from the atmosphere, scattered moon light, and solar twilight.
 
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
-  Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of obsreving time on a 0.6m telescope!
+  Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of observing time on a 0.6m telescope!
   repoLink: ""
   Text: >
-    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.
+    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.  Papers coming soon!
 
 - Name: OpSim Scheduler Analysis
   Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
@@ -26,14 +26,14 @@
   repoLink: >
     [Fork it here!](https://github.com/yoachim/AstroHireNetwork)
   Text: >
-    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  
+    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  It would also be interesting to track how long careers are based on publication histories.
 
 - Name: PyEmoji
   Image: /assets/projects/emojiScreen.png
   Caption: Because I can
   repoLink: https://github.com/yoachim/pyemoji
   Text: >
-    The sheer absurdity of emoji amuses me.  I couldn't find a decent english 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
+    The sheer absurdity of emoji amuses me.  I couldn't find a decent English 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
 
 - Name: LSST Photometric Uber-Calibration
   Image: /assets/projects/selfcal.png
@@ -41,19 +41,22 @@
   repoLink: >
     [Fork it here!](https://github.com/lsst/sims_selfcal)
   Text: >
-    fun with ubercal.
-
+    Calibrating the LSST photometric system will be hard because of the giant scale of the problem. I've done some work figuring out how we could solve the large uber-cal matrix in parallel.
 
 - Name: Satellite Galaxies
   Image: /assets/projects/M106.jpg
   Caption: SDSS image of M106 from [this great gallery](http://cosmo.nyu.edu/hogg/rc3/).
   repoLink: " "
   Text: >
-    Satellite galaxies are neato.
+    I tricked a student into making a spectroscopic survey of possible satellite galaxies around the nearby galaxy M106. <br>
+    <font size="1">Paper:<br>
+    <a href="http://adslabs.org/adsabs/abs/2014ApJ...788..146S/"> 
+    A Survey of Satellite Galaxies around NGC 4258, Spencer, Meghin, Loebman, Sarah, Yoachim, Peter, ApJ,  788,  2, (2014)</a>
+    </font>
 
 - Name: Stellar Radial Migration
   Image: /assets/projects/radMigration.png
-  Caption: A plot of the
+  Caption: A plot of one of our galaxies as seen in SDSS and as seen through the VIRUS-P IFU.
   repoLink: " "
   Text: >
     Used VIRUS-P to observe a bunch of nearby galaxies <br>
@@ -62,16 +65,16 @@
     &#8226; <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
      </font>
 
-
 - Name: Cepheid Variables
   Image: /assets/projects/cephLC.png
-  Caption: light curves from xxx et al
+  Caption: Cepheid light curves fit with templates.
   repoLink: " "
   Text: >
-    I had some fun making Cephied light curve templates.  Unfortunatly, I wrote it all in IDL. It would be great if someone wanted to port this over to python!
-    1. ack
-    2. blah
-    XXX-add links to papers.
+    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if someone wanted to port this over to python!
+     <font size="1">Papers:<br>
+     &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4697Y">A Panoply of Cepheid Light Curve Templates, Yoachim, Peter; McCommas, Les P.; Dalcanton, Julianne J.; Williams, Benjamin F., AJ, 137, 6, (2009)</a> <br>
+    &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4707M">The ACS Nearby Galaxy Survey Treasury. III. Cepheids in the Outer Disk of M81, McCommas, Les P.; Yoachim, Peter; Williams, Benjamin F.; Dalcanton, Julianne J.; Davis, Matthew R.; Dolphin, Andrew E.,  AJ, 137, 6, (2009).</a>
+     </font>
 
 - Name: Thick Disks
   Image: /assets/projects/thick_disk.png
@@ -85,4 +88,3 @@
       &#8226; <a href="http://xxx.lanl.gov/abs/0805.4197">Lick Indices in the Thin and Thick Disks of Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2008 ApJ</a> <br> 
       &#8226; <a href="http://arxiv.org/abs/0804.3966">The Kinematics of Thick Disks in Nine External Galaxies, Peter Yoachim &Julianne J. Dalcanton, 2008 ApJ </a> 
     </font>
-
