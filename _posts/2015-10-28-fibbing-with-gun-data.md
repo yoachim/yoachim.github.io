@@ -15,6 +15,7 @@ Whenever there's another mass shooting, people like to compare gun violence in t
 Now, there's an excellent point to be made that way too many people are getting murdered with guns in the US. I totally agree with that. But the above graphic is obviously cherry-picking countries to make a point rather than selecting countries that are reasonably comparable to the US. I mean, they have *Luxembourg* up there. Luxembourg has a population of a half-million people, so about 640 times smaller than the US.
 
 What would the graphic look like if it wasn't cherry-picked? Well, here are some countries off the top of my head that I think are comparable to the US in important ways.
+
 * Russia. The US and USSR were the only two super powers for a long time, seems like that's a good comparison.
 * Canada. Large continent-size country that we border and have a lot in common with.
 * Mexico. If we have Canada, makes sense to include the other large country we border.
