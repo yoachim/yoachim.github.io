@@ -23,7 +23,7 @@ What would the graphic look like if it wasn't cherry-picked? Well, here are some
 * Germany. Big industrialized country (Or France, the UK, whatever)
 
 And here's what that looks like:
-![](/assets/gunrate.png =400x)
+<img src="/assets/gunrate.png" alt="" width="400"/>
 
 So, it's fine if you want to say the US should strive to be more like Canada and Germany and less like Mexico and Russia, but don't pretend the US is some bizarre violent outlier.
 
