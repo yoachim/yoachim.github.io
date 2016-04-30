@@ -5,10 +5,10 @@ date: 2016-04-29
 type: post
 ---
 
-I've been reading comic strips for as long as I can remember. As a kid, I had every Calvin and Hobbes book and every Far Side.  These days I read plenty of web comics.  I recently discovered [MRA Dilbert]{http://mradilbert.tumblr.com/}, where the words on Dilbert comics are replaced by the bizarre blog rantings of Scott Adams.  This made me realize what (for me) makes a comic strip great, the art has to be part of the joke. For many Dilbert strips, the art adds nothing--the joke would work just as well as an all-text tweet. 
+I've been reading comic strips for as long as I can remember. As a kid, I had every Calvin and Hobbes book and every Far Side.  These days I read plenty of web comics.  I recently discovered [MRA Dilbert](http://mradilbert.tumblr.com/), where the words on Dilbert comics are replaced by the bizarre blog rantings of Scott Adams.  This made me realize what (for me) makes a comic strip great, the art has to be part of the joke. For many Dilbert strips, the art adds nothing--the joke would work just as well as an all-text tweet. 
 
 But look at this classic Calvin, it isn't funny at all without the art!
-!(http://johngushue.typepad.com/photos/uncategorized/calvin_and_hobbes_snowman_crossing.gif)
+<img class="aligncenter" src="http://johngushue.typepad.com/photos/uncategorized/calvin_and_hobbes_snowman_crossing.gif" alt="" />
 
 It just seems odd to write a comic that doesn't utilize the whole medium. It's like reading text off a PowerPoint slide. 
 
