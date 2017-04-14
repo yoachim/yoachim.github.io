@@ -1,9 +1,19 @@
+- Name: Cloud Propigation
+  Image: /assets/projects/cloudy_examples.png
+  Caption: Example of using all sky images to detect clouds.
+  repoLink: [on github](https://github.com/lsst/all_sky_phot)
+  Text: >
+   Putting together a pipeline that will take fisheye all-sky camera images and generate cloud transparency maps, then forecast the cloud motions into the future.
+
+
 - Name: LSST Sky Background
   Image: /assets/projects/ut011314.0648.long.jpg
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
-  repoLink: Coming soon to [http://github.com](http://github.com)
+  repoLink: [on github](https://github.com/lsst/sims_skybrightness)
   Text: >
    I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  This will include emission from the atmosphere, scattered moon light, and solar twilight.
+   [Yoachim, et al., SPIE 2016](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2533889)
+
 
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
@@ -59,7 +69,7 @@
   Caption: A plot of one of our galaxies as seen in SDSS and as seen through the VIRUS-P IFU.
   repoLink: " "
   Text: >
-    Used VIRUS-P to observe a bunch of nearby galaxies <br>
+    Used VIRUS-P to observe a bunch of nearby galaxies. We looked for evidence that stars can migrate from the inner regions of galaxies to the outer parts. <br>
     <font size="1">Papers:<br>
      &#8226; <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> <br>
     &#8226; <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
