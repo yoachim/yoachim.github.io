@@ -1,10 +1,10 @@
-- Name: Cloud Propigation
+- 
+  Name: Cloud Propigation
   Image: /assets/projects/cloudy_examples.png
   Caption: Example of using all sky images to detect clouds.
   repoLink: [on github](https://github.com/lsst/all_sky_phot)
   Text: >
-   Putting together a pipeline that will take fisheye all-sky camera images and generate cloud transparency maps, then forecast the cloud motions into the future.
-
+  Putting together a pipeline that will take fisheye all-sky camera images and generate cloud transparency maps, then forecast the cloud motions into the future.
 
 - Name: LSST Sky Background
   Image: /assets/projects/ut011314.0648.long.jpg
@@ -13,7 +13,6 @@
   Text: >
    I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  This will include emission from the atmosphere, scattered moon light, and solar twilight.
    [Yoachim, et al., SPIE 2016](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2533889)
-
 
 - Name: Giant Low Surface Brightness Galaxies
   Image: http://www.capella-observatory.com/images/Galaxies/UGC6614.jpg
