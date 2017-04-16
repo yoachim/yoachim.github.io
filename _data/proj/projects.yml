@@ -1,14 +1,14 @@
 - Name: Cloud Propigation
   Image: /assets/projects/cloudy_examples.png
   Caption: Example of using all sky images to detect clouds.
-  repoLink: [on github](https://github.com/lsst/all_sky_phot)
+  repoLink: In progresss [on github](https://github.com/lsst/all_sky_phot)
   Text: >
     Putting together a pipeline that will take fisheye all-sky camera images and generate cloud transparency maps, then forecast the cloud motions into the future.
 
 - Name: LSST Sky Background
   Image: /assets/projects/ut011314.0648.long.jpg
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
-  repoLink: [on github](https://github.com/lsst/sims_skybrightness)
+  repoLink: Now [on github](https://github.com/lsst/sims_skybrightness)
   Text: >
    I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  This will include emission from the atmosphere, scattered moon light, and solar twilight.
    [Yoachim, et al., SPIE 2016](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2533889)
