@@ -6,7 +6,7 @@ title:            Peter's Blargh
 tagline:          where I calculate things for fun
 url:              http://yoachim.github.io/
 paginate:         5
-baseurl:          /
+baseurl:          
 author:
   name:           Peter Yoachim
   url:            https://twitter.com/PeterYoachim
