@@ -1,3 +1,17 @@
+- Name: Telescope Scheduler
+  Image: /assets/projects/cloudy_examples.png
+  Caption: xxx-update
+  repoLink: now [on github](https://github.com/lsst/sims_featureScheduler)
+  Text: >
+     I helped supervised two student projects working on the LSST scheduler. This resulted in a new telescope scheduling technique based on Operations Research.
+
+- Name: GAIA-LSST Calibration
+  Image: /assets/projects/cloudy_examples.png
+  Caption: xxx-update
+  repoLink: now [on github](https://github.com/lsst/sims_featureScheduler)
+  Text: >
+     I spent a week in Germany working with the GAIA team to see if we could use their observations to calibrate LSST. 
+
 - Name: Cloud Propigation
   Image: /assets/projects/cloudy_examples.png
   Caption: Example of using all sky images to detect clouds.
@@ -26,15 +40,22 @@
   repoLink: >
     [Fork it here](https://github.com/lsst/sims_maf)
   Text: >
-    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  A typical 10-year LSST survey includes 2.5 million visits.  Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
+    <p>
+    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  
+    A typical 10-year LSST survey includes 2.5 million visits.  
+    Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
+    </p>
+    Taking a database of observations, analyze the science performance of the survey. Includes a tool using tornado 
+    to generate web pages to display extended reports
 
 - Name: Astronomer Hiring Network
-  Image: /assets/projects/paperNetwork.png
-  Caption: My paper network as visualized by ADS
+  Image: /assets/projects/single_rc_fa.png
+  Caption: How long different PhD classes stay publishing as first authors.
   repoLink: >
-    [Fork it here!](https://github.com/yoachim/AstroHireNetwork)
+    [on github](https://github.com/yoachim/AstroHireNetwork)
   Text: >
-    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  It would also be interesting to track how long careers are based on publication histories.
+    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for 
+    astronomy.  It would also be interesting to track how long careers are based on publication histories. 
 
 - Name: PyEmoji
   Image: /assets/projects/emojiScreen.png
@@ -57,7 +78,7 @@
   repoLink: " "
   Text: >
     I tricked a student into making a spectroscopic survey of possible satellite galaxies around the nearby galaxy M106. <br>
-    <font size="1">Paper:<br>
+    <font size="3">Paper:<br>
     <a href="http://adslabs.org/adsabs/abs/2014ApJ...788..146S/"> 
     A Survey of Satellite Galaxies around NGC 4258, Spencer, Meghin, Loebman, Sarah, Yoachim, Peter, ApJ,  788,  2, (2014)</a>
     </font>
@@ -68,7 +89,7 @@
   repoLink: " "
   Text: >
     Used VIRUS-P to observe a bunch of nearby galaxies. We looked for evidence that stars can migrate from the inner regions of galaxies to the outer parts. <br>
-    <font size="1">Papers:<br>
+    <font size="3">Papers:<br>
      &#8226; <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> <br>
     &#8226; <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
      </font>
@@ -78,8 +99,10 @@
   Caption: Cepheid light curves fit with templates.
   repoLink: " "
   Text: >
-    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if someone wanted to port this over to python!
-     <font size="1">Papers:<br>
+    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if
+    someone wanted to port this over to python!
+    <br>
+     <font size="3">Papers:<br>
      &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4697Y">A Panoply of Cepheid Light Curve Templates, Yoachim, Peter; McCommas, Les P.; Dalcanton, Julianne J.; Williams, Benjamin F., AJ, 137, 6, (2009)</a> <br>
     &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4707M">The ACS Nearby Galaxy Survey Treasury. III. Cepheids in the Outer Disk of M81, McCommas, Les P.; Yoachim, Peter; Williams, Benjamin F.; Dalcanton, Julianne J.; Davis, Matthew R.; Dolphin, Andrew E.,  AJ, 137, 6, (2009).</a>
      </font>
@@ -90,7 +113,7 @@
   repoLink: " "
   Text: >
     This is what I did my thesis work on. <br>
-    <font size="1">Papers:<br>
+    <font size="3">Papers:<br>
       &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0501394">The Kinematics of Thick Disks in External Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2005 ApJ </a> <br> 
       &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0508460">Structural Parameters of Thin and Thick Disks in Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2006 AJ </a> <br> 
       &#8226; <a href="http://xxx.lanl.gov/abs/0805.4197">Lick Indices in the Thin and Thick Disks of Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2008 ApJ</a> <br> 
