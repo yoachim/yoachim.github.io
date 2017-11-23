@@ -90,9 +90,9 @@
   Text: >
     Used VIRUS-P to observe a bunch of nearby galaxies. We looked for evidence that stars can migrate from the inner regions of galaxies to the outer parts. <br>
     <font size="3">Papers:<br>
-     &#8226; <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> <br>
+    &#8226; <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> <br>
     &#8226; <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
-     </font>
+    </font>
 
 - Name: Cepheid Variables
   Image: /assets/projects/cephLC.png
@@ -100,7 +100,10 @@
   repoLink: " "
   Text: >
     I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if
-    someone wanted to port this over to python!
+    someone wanted to port this over to python! <br>
+    &#8226; Machine Learning: Principal Component Analysis of time serries data <br>
+    &#8226; Archival data analysis <br>
+    &#8226; Successfully distributed code to other groups (who used it in their research) <br>
     <br>
      <font size="3">Papers:<br>
      &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4697Y">A Panoply of Cepheid Light Curve Templates, Yoachim, Peter; McCommas, Les P.; Dalcanton, Julianne J.; Williams, Benjamin F., AJ, 137, 6, (2009)</a> <br>
@@ -112,7 +115,9 @@
   Caption: B-R image of an edge-on disk galaxy
   repoLink: " "
   Text: >
-    This is what I did my thesis work on. <br>
+    &#8226; Photometric and spectroscopic observations of nearby disk galaxies with the APO 3.5m and Gemini North and South Telescopes <br>
+    &#8226; Data reduction in IRAF and IDL <br>
+    &#8226; Model fitting in IDL <br>
     <font size="3">Papers:<br>
       &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0501394">The Kinematics of Thick Disks in External Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2005 ApJ </a> <br> 
       &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0508460">Structural Parameters of Thin and Thick Disks in Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2006 AJ </a> <br> 
