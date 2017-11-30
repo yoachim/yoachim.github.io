@@ -62,7 +62,16 @@
   Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of observing time on a 0.6m telescope!
   repoLink: ""
   Text: >
-    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.  Papers coming soon!
+    I've been working on a project to study Giant Low Surface Brightness Galaxies.  
+    These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  
+    There have been some creative formation theories proposed for these,
+
+
+    - Intergral Field Spectroscopy 
+
+    - 2D velocity field fitting
+
+    - Stellar population fitting
 
 - Name: OpSim Scheduler Analysis
   Image: /assets/projects/minion_alt_az.png
@@ -85,7 +94,7 @@
     - Manage public [github repo](https://github.com/LSST-nonproject/sims_maf_contrib) to collect contributions to the code
 
 
-- Name: Astronomer Hiring Network
+- Name: Astronomer Publishing Lifetimes
   Image: /assets/projects/astro_hire_stacked.png
   Caption: Published paper graph network (top), how long different PhD classes stay publishing as first authors (bottom)
   repoLink: >
@@ -104,40 +113,83 @@
     - Python, Numpy, Pandas, matplotlib
 
 
-
-- Name: PyEmoji
+- Name: Side Projects
   Image: /assets/projects/emojiScreen.png
-  Caption: Because I can
-  repoLink: https://github.com/yoachim/pyemoji
+  Caption: Command line emoji recommendations
+  repoLink: >
+
   Text: >
-    The sheer absurdity of emoji amuses me.  I couldn't find a decent English 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
+    Sometimes things strike my fancy and I do a little side project for my own entertainment.
+
+
+     - [Traveling salesperson](/2015/03/26/optimized-road-trips-to-places-you-would-actually-want-to-go/) problem with google maps API and evolutionary algorythim optimization
+
+     - [Birthday effect](/2013/07/30/when-astrology-works-birthday-effects-in-sports/) in professional sports
+
+     - Actuarial analysis of [Simpsons' guest stars](/2013/05/15/the-curse-of-the-simpsons/)
+
+     - Generating [pub trivia team names](https://github.com/yoachim/pypun) using python and wikipedia
+
+     - Generating [emoji recommendations](https://github.com/yoachim/pyemoji)
+
+     - Learning HTML, CSS, Jekyl, YAML, Markdown, etc for this page and my [work website](http://staff.washington.edu/yoachim/)
+
+     - A [personal comics page](http://staff.washington.edu/yoachim/Comics/) that updates daily.
+
+
 
 - Name: LSST Photometric Uber-Calibration
   Image: /assets/projects/selfcal.png
-  Caption: ubercal is cool
+  Caption: Residuals after running the self calibration simulation
   repoLink: >
-    [Fork it here!](https://github.com/lsst/sims_selfcal)
+    [on github](https://github.com/lsst/sims_selfcal)
   Text: >
-    Calibrating the LSST photometric system will be hard because of the giant scale of the problem. I've done some work figuring out how we could solve the large uber-cal matrix in parallel.
+    Simulating the calibration of LSST observations for annual data releases.
+
+
+    - Python parallel (ipyparallel)
+
+    - Big data project simulating 10<sup>9</sup> data points and inverting a 10<sup>7</sup>x10<sup>8</sup> element matrix
+
+    - National supercomputer facilities (XSEDE)
+
+    - databases (SQL, Mysql, postgres)
+
 
 - Name: Satellite Galaxies
   Image: /assets/projects/sats.png
   Caption: Satellite galaxy velocities around M103
   repoLink: " "
   Text: >
-    I tricked a student into making a spectroscopic survey of possible satellite galaxies around the nearby galaxy M106. <br>
-    <font size="3">Paper:<br>
+    A survey around the nearby galaxy M106.
+
+
+    - Spectroscopic survey with the APO 3.5m
+
+    - Mentored student project which was published
+
+    - archival SDSS data
+    
+
+    Paper:
     <a href="http://adslabs.org/adsabs/abs/2014ApJ...788..146S/"> 
     A Survey of Satellite Galaxies around NGC 4258, Spencer, Meghin, Loebman, Sarah, Yoachim, Peter, ApJ,  788,  2, (2014)</a>
-    </font>
+    
 
 - Name: Stellar Radial Migration
   Image: /assets/projects/radMigration.png
   Caption: A plot of one of our galaxies as seen in SDSS and as seen through the VIRUS-P IFU.
   repoLink: " "
   Text: >
-    Used VIRUS-P to observe a bunch of nearby galaxies. We looked for evidence that stars can migrate from the inner regions of galaxies to the outer parts. <br>
-    <font size="3">Papers:
+    A project looking to confirm theoritical predicitons of how stars can migrate in spiral galaxies
+
+
+    - Observations with an IFS at McDonald Observatory
+
+    - Data reduction and analysis in IDL and Python
+    
+
+    Papers:
 
 
     - <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> 
@@ -158,7 +210,7 @@
 
     - Archival data analysis
 
-    - Successfully distributed code to other groups (who used it in their research)
+    - Released code to the community and had it used in other published papers
 
     
      Papers:

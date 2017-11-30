@@ -1,127 +1,18 @@
 Ugh, laying things out is a pain in the ass
 
-
-
----
-Gaia-LSST Calibration
-
-
-
-----
-Cloud Propigation
-
-
-----
-LSST Sky Background
-
-
-
-
------
-
-OpSim Scheduler Analysis
-
-
-
-
-
-
-----
-Astronomer Hiring Network
-
-
-
-
-
-----
-
-LSST Photometric Uber-Calibration
-
-Simulating the calibration 
-
-
-- Python parallel (ipyparallel)
-
-- Big data project simulating XXX observations and inverting a XXXxXXX matrix
-
-- National supercomputer facilities (XSEDE)
-
-- database work (SQL, Mysql, postgres)
-
-
 -----
 Giant Low Surface Brightness Galaxies
 
 
 
-- Intergral Field Spectroscopy 
 
-- 2D velocity field fitting
-
-- Stellar population fitting
-
-
--------
-
-Side Projects
-
-Sometimes things strike my fancy and I do a little side project for my own entertainment
-
-
-- Traveling salesperson problem with google maps API and evolutionary algorythim optimization
-
-- Birthday effect in professional sports
-
-- Actuarial analysis of Simpsons' guest stars
-
-- Generating pub trivia team names using python and wikipedia
-
---------
-
-Satellite Galaxies
-
-
-- Spectroscopic survey with the APO 3.5m
-
-- Mentored student project which was published
-
-- archival data search
-
-Paper:
 
 
 -------
 
 Stellar Radial Migration
 
-A project looking to confirm theoritical predicitons of how stars can migrate in spiral galaxies
-
-
-- Observations with an IFS at McDonald Observatory
-
-- Data reduction and analysis in IDL and Python
 
 Papers:
 
-
-------
-Cepheid Variables
-
-
-
-&#8226; Machine Learning: Principal Component Analysis of time serries data <br>
-    &#8226; Archival data analysis <br>
-    &#8226; Successfully distributed code to other groups (who used it in their research) <br>
-
-Papers:
-
------
-
-Thick Disks
-
-
-
-    &#8226; Photometric and spectroscopic observations of nearby disk galaxies with the APO 3.5m and Gemini North and South Telescope <br>
-    &#8226; Data reduction in IRAF and IDL <br>
-    &#8226; Multi-dimensional model fitting in IDL <br>
 
