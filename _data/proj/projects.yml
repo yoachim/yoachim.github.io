@@ -19,7 +19,7 @@
   Caption: Theoretical stellar models
   repoLink: on [github](https://github.com/lsst/sims_featureScheduler)
   Text: >
-     A project collaborating with the Gaia team in Heidelburg and the LSST calibration group.
+     A project collaborating with the Gaia team in Heidelberg and the LSST calibration group.
 
 
      - Simulation of Gaia spectroscopic observations
@@ -67,7 +67,7 @@
     There have been some creative formation theories proposed for these,
 
 
-    - Intergral Field Spectroscopy 
+    - Integral Field Spectroscopy 
 
     - 2D velocity field fitting
 
@@ -85,7 +85,7 @@
 
     - python, healpy, numpy, matplotlib, SQL, sqlite
 
-    - automated analysis and data vislization package
+    - automated analysis and data visualization package
 
     - tornado web framework
 
@@ -122,17 +122,17 @@
     Sometimes things strike my fancy and I do a little side project for my own entertainment.
 
 
-     - [Traveling salesperson](/2015/03/26/optimized-road-trips-to-places-you-would-actually-want-to-go/) problem with google maps API and evolutionary algorythim optimization
+     - [Traveling salesperson](/2015/03/26/optimized-road-trips-to-places-you-would-actually-want-to-go/) problem with google maps API and evolutionary algorithm optimization
 
      - [Birthday effect](/2013/07/30/when-astrology-works-birthday-effects-in-sports/) in professional sports
 
      - Actuarial analysis of [Simpsons' guest stars](/2013/05/15/the-curse-of-the-simpsons/)
 
-     - Generating [pub trivia team names](https://github.com/yoachim/pypun) using python and wikipedia
+     - Generating [pub trivia team names](https://github.com/yoachim/pypun) using python and Wikipedia
 
      - Generating [emoji recommendations](https://github.com/yoachim/pyemoji)
 
-     - Learning HTML, CSS, Jekyl, YAML, Markdown, etc for this page and my [work website](http://staff.washington.edu/yoachim/)
+     - Learning HTML, CSS, Jekyll, YAML, Markdown, etc for this page and my [work website](http://staff.washington.edu/yoachim/)
 
      - A [personal comics page](http://staff.washington.edu/yoachim/Comics/) that updates daily.
 
@@ -181,7 +181,7 @@
   Caption: A plot of one of our galaxies as seen in SDSS and as seen through the VIRUS-P IFU.
   repoLink: " "
   Text: >
-    A project looking to confirm theoritical predicitons of how stars can migrate in spiral galaxies
+    A project looking to confirm theoretical predictions of how stars can migrate in spiral galaxies
 
 
     - Observations with an IFS at McDonald Observatory
@@ -206,7 +206,7 @@
     someone wanted to port this over to python!
 
 
-    - Machine Learning: Principal Component Analysis of time serries data
+    - Machine Learning: Principal Component Analysis of time series data
 
     - Archival data analysis
 
