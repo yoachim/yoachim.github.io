@@ -1,16 +1,60 @@
-- Name: Cloud Propigation
+- Name: Telescope Scheduler
+  Image: /assets/projects/dithers.png
+  Caption: Dithering vs no dithering included in the telescope scheduler.
+  repoLink: on [github](https://github.com/lsst/sims_featureScheduler)
+  Text: >
+     Working with collaborators in Computer Science and Operations Research, I developed a new telescope 
+     scheduling framework capable of intelligently observing 2.5 million exposures over a 10-year survey.
+     
+
+     - Apply Operations Research techniques to telescope scheduling
+
+     - Differential Evolution optimization
+
+     - Python, numpy, scipy, sqlite
+     
+
+- Name: Gaia-LSST Calibration
+  Image: /assets/projects/kuruz_logg.png
+  Caption: Theoretical stellar models
+  repoLink: on [github](https://github.com/lsst/sims_featureScheduler)
+  Text: >
+     A project collaborating with the Gaia team in Heidelburg and the LSST calibration group.
+
+
+     - Simulation of Gaia spectroscopic observations
+
+     - Large database comparison
+
+
+     Written up as [Sims Tech Note 008](https://smtn-008.lsst.io/)
+     
+- Name: Cloud Modeling
   Image: /assets/projects/cloudy_examples.png
   Caption: Example of using all sky images to detect clouds.
-  repoLink: In progresss [on github](https://github.com/lsst/all_sky_phot)
+  repoLink: on [github](https://github.com/lsst/all_sky_phot), and [github](https://github.com/lsst-sims/sims_cloud_prediction)
   Text: >
-    Putting together a pipeline that will take fisheye all-sky camera images and generate cloud transparency maps, then forecast the cloud motions into the future.
+     This is a project to use an all-sky camera to track the current position of clouds and predict their future motion.
+
+
+     - All sky camera photometric pipeline with astropy and healpy
+
+     - 2D Fourier space analysis
 
 - Name: LSST Sky Background
   Image: /assets/projects/ut011314.0648.long.jpg
   Caption: All-sky camera image from Cerro Pachon. Orange streak is the Gemini adaptive optics laser. &lt;pew> &lt;pew>.
-  repoLink: Now [on github](https://github.com/lsst/sims_skybrightness)
+  repoLink: on [github](https://github.com/lsst/sims_skybrightness)
   Text: >
-   I'm working on making a model for the background sky brightness on Cerro Pachon. This model will be used to help optimize the LSST scheduler.  This will include emission from the atmosphere, scattered moon light, and solar twilight.
+   Combined previous sky models from ESO and our own observations to create a code capable of 
+   predicting sky brightnesses in Chile including airglow, moonlight, and twilight components.
+
+
+   - Fitting all-sky camera data (42,000 images containing 91 million stars)
+
+   - Optimize performance by creating pre-computed interpolation library
+
+
    [Yoachim, et al., SPIE 2016](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2533889)
 
 - Name: Giant Low Surface Brightness Galaxies
@@ -18,81 +62,188 @@
   Caption: here's a fancy pic of the GLSB galaxy UGC 6614. From [this page](http://www.capella-observatory.com/ImageHTMLs/Galaxies/UGC6614.htm) where they combined 9.5 hours of observing time on a 0.6m telescope!
   repoLink: ""
   Text: >
-    I've been working on a project to study Giant Low Surface Brightness Galaxies.  These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  There have been some creative formation theories proposed for these, and we are planning to test them with IFU observations from VIRUS-P at McDonald Observatory and GMOS at Gemini North.  Papers coming soon!
+    I've been working on a project to study Giant Low Surface Brightness Galaxies.  
+    These are bizarre systems that look like normal spirals, but are actually an order of magnitude larger in diameter.  
+    There have been some creative formation theories proposed for these,
+
+
+    - Intergral Field Spectroscopy 
+
+    - 2D velocity field fitting
+
+    - Stellar population fitting
 
 - Name: OpSim Scheduler Analysis
-  Image: /assets/projects/thumb.enigma_1189_Count_fieldRA_r_HEAL_SkyMap.png
+  Image: /assets/projects/minion_alt_az.png
   Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
   repoLink: >
-    [Fork it here](https://github.com/lsst/sims_maf)
+    [on github](https://github.com/lsst/sims_maf)
   Text: >
-    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  A typical 10-year LSST survey includes 2.5 million visits.  Contribute your own survey metrics [on github](https://github.com/LSST-nonproject/sims_maf_contrib)
+    I've been working with the OpSim group to help analyze how well simulated LSST surveys perform.  
+    A typical 10-year LSST survey includes 2.5 million visits.  
 
-- Name: Astronomer Hiring Network
-  Image: /assets/projects/paperNetwork.png
-  Caption: My paper network as visualized by ADS
+
+    - python, healpy, numpy, matplotlib, SQL, sqlite
+
+    - automated analysis and data vislization package
+
+    - tornado web framework
+
+    - Collaborate with scientists to develop science performance metrics
+
+    - Manage public [github repo](https://github.com/LSST-nonproject/sims_maf_contrib) to collect contributions to the code
+
+
+- Name: Astronomer Publishing Lifetimes
+  Image: /assets/projects/astro_hire_stacked.png
+  Caption: Published paper graph network (top), how long different PhD classes stay publishing as first authors (bottom)
   repoLink: >
-    [Fork it here!](https://github.com/yoachim/AstroHireNetwork)
+    [on github](https://github.com/yoachim/AstroHireNetwork)
   Text: >
-    I was inspired by a recent paper on hiring networks in various academic departments, and figured it would be really easy to replicate for astronomy.  It would also be interesting to track how long careers are based on publication histories.
+    Science funding agencies send out numerous surveys to track the state of the science job market. Given such surveys can have low response rates and biases, 
+    I realized the large ADS database which tracks virtually all astronomy publications would be a better way to measure science career lifetimes.
 
-- Name: PyEmoji
+
+    - graph network analysis in Python with networkx
+
+    - text information analysis with sklearn
+
+    - High volume database scraping of ADS
+
+    - Python, Numpy, Pandas, matplotlib
+
+
+- Name: Side Projects
   Image: /assets/projects/emojiScreen.png
-  Caption: Because I can
-  repoLink: https://github.com/yoachim/pyemoji
+  Caption: Command line emoji recommendations
+  repoLink: >
+
   Text: >
-    The sheer absurdity of emoji amuses me.  I couldn't find a decent English 2 emoji translator, so I wrote my own.  It's very simple now, but with a tiny bit of training I think it could be pretty cool.  
+    Sometimes things strike my fancy and I do a little side project for my own entertainment.
+
+
+     - [Traveling salesperson](/2015/03/26/optimized-road-trips-to-places-you-would-actually-want-to-go/) problem with google maps API and evolutionary algorythim optimization
+
+     - [Birthday effect](/2013/07/30/when-astrology-works-birthday-effects-in-sports/) in professional sports
+
+     - Actuarial analysis of [Simpsons' guest stars](/2013/05/15/the-curse-of-the-simpsons/)
+
+     - Generating [pub trivia team names](https://github.com/yoachim/pypun) using python and wikipedia
+
+     - Generating [emoji recommendations](https://github.com/yoachim/pyemoji)
+
+     - Learning HTML, CSS, Jekyl, YAML, Markdown, etc for this page and my [work website](http://staff.washington.edu/yoachim/)
+
+     - A [personal comics page](http://staff.washington.edu/yoachim/Comics/) that updates daily.
+
+
 
 - Name: LSST Photometric Uber-Calibration
   Image: /assets/projects/selfcal.png
-  Caption: ubercal is cool
+  Caption: Residuals after running the self calibration simulation
   repoLink: >
-    [Fork it here!](https://github.com/lsst/sims_selfcal)
+    [on github](https://github.com/lsst/sims_selfcal)
   Text: >
-    Calibrating the LSST photometric system will be hard because of the giant scale of the problem. I've done some work figuring out how we could solve the large uber-cal matrix in parallel.
+    Simulating the calibration of LSST observations for annual data releases.
+
+
+    - Python parallel (ipyparallel)
+
+    - Big data project simulating 10<sup>9</sup> data points and inverting a 10<sup>7</sup>x10<sup>8</sup> element matrix
+
+    - National supercomputer facilities (XSEDE)
+
+    - databases (SQL, Mysql, postgres)
+
 
 - Name: Satellite Galaxies
-  Image: /assets/projects/M106.jpg
-  Caption: SDSS image of M106 from [this great gallery](http://cosmo.nyu.edu/hogg/rc3/).
+  Image: /assets/projects/sats.png
+  Caption: Satellite galaxy velocities around M103
   repoLink: " "
   Text: >
-    I tricked a student into making a spectroscopic survey of possible satellite galaxies around the nearby galaxy M106. <br>
-    <font size="1">Paper:<br>
+    A survey around the nearby galaxy M106.
+
+
+    - Spectroscopic survey with the APO 3.5m
+
+    - Mentored student project which was published
+
+    - archival SDSS data
+    
+
+    Paper:
     <a href="http://adslabs.org/adsabs/abs/2014ApJ...788..146S/"> 
     A Survey of Satellite Galaxies around NGC 4258, Spencer, Meghin, Loebman, Sarah, Yoachim, Peter, ApJ,  788,  2, (2014)</a>
-    </font>
+    
 
 - Name: Stellar Radial Migration
   Image: /assets/projects/radMigration.png
   Caption: A plot of one of our galaxies as seen in SDSS and as seen through the VIRUS-P IFU.
   repoLink: " "
   Text: >
-    Used VIRUS-P to observe a bunch of nearby galaxies. We looked for evidence that stars can migrate from the inner regions of galaxies to the outer parts. <br>
-    <font size="1">Papers:<br>
-     &#8226; <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> <br>
-    &#8226; <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
-     </font>
+    A project looking to confirm theoritical predicitons of how stars can migrate in spiral galaxies
+
+
+    - Observations with an IFS at McDonald Observatory
+
+    - Data reduction and analysis in IDL and Python
+    
+
+    Papers:
+
+
+    - <a href="http://arxiv.org/abs/1204.0026">Spatially Resolved Spectroscopic Star Formation Histories of nearby Disks: Hints of Stellar Migration, Yoachim, Peter, Roskar, Rok; Debattista, Victor P., 2012, ApJ, 752, 97</a> 
+
+    - <a href="http://arxiv.org/abs/1005.0851">IFU Spectroscopy of the Stellar Disk Truncation Region of NGC 6155, Peter Yoachim, Debattista, V., Roskar, R., ApJL, 716, L4 </a>
+    
 
 - Name: Cepheid Variables
   Image: /assets/projects/cephLC.png
   Caption: Cepheid light curves fit with templates.
   repoLink: " "
   Text: >
-    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if someone wanted to port this over to python!
-     <font size="1">Papers:<br>
-     &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4697Y">A Panoply of Cepheid Light Curve Templates, Yoachim, Peter; McCommas, Les P.; Dalcanton, Julianne J.; Williams, Benjamin F., AJ, 137, 6, (2009)</a> <br>
-    &#8226; <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4707M">The ACS Nearby Galaxy Survey Treasury. III. Cepheids in the Outer Disk of M81, McCommas, Les P.; Yoachim, Peter; Williams, Benjamin F.; Dalcanton, Julianne J.; Davis, Matthew R.; Dolphin, Andrew E.,  AJ, 137, 6, (2009).</a>
-     </font>
+    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if
+    someone wanted to port this over to python!
+
+
+    - Machine Learning: Principal Component Analysis of time serries data
+
+    - Archival data analysis
+
+    - Released code to the community and had it used in other published papers
+
+    
+     Papers:
+
+
+     - <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4697Y">A Panoply of Cepheid Light Curve Templates, Yoachim, Peter; McCommas, Les P.; Dalcanton, Julianne J.; Williams, Benjamin F., AJ, 137, 6, (2009)</a> 
+
+     - <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4707M">The ACS Nearby Galaxy Survey Treasury. III. Cepheids in the Outer Disk of M81, McCommas, Les P.; Yoachim, Peter; Williams, Benjamin F.; Dalcanton, Julianne J.; Davis, Matthew R.; Dolphin, Andrew E.,  AJ, 137, 6, (2009).</a>
+  
 
 - Name: Thick Disks
   Image: /assets/projects/thick_disk.png
   Caption: B-R image of an edge-on disk galaxy
   repoLink: " "
   Text: >
-    This is what I did my thesis work on. <br>
-    <font size="1">Papers:<br>
-      &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0501394">The Kinematics of Thick Disks in External Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2005 ApJ </a> <br> 
-      &#8226; <a href="http://xxx.lanl.gov/abs/astro-ph/0508460">Structural Parameters of Thin and Thick Disks in Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2006 AJ </a> <br> 
-      &#8226; <a href="http://xxx.lanl.gov/abs/0805.4197">Lick Indices in the Thin and Thick Disks of Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2008 ApJ</a> <br> 
-      &#8226; <a href="http://arxiv.org/abs/0804.3966">The Kinematics of Thick Disks in Nine External Galaxies, Peter Yoachim &Julianne J. Dalcanton, 2008 ApJ </a> 
-    </font>
+    My PhD thesis focused on observations of nearby edge-on galaxies.
+
+
+    - Photometric and spectroscopic observations of nearby disk galaxies with the APO 3.5m and Gemini North and South Telescopes 
+
+    - Data reduction in IRAF and IDL 
+
+    - Model fitting in IDL 
+
+
+    Papers:
+
+
+      - <a href="http://xxx.lanl.gov/abs/astro-ph/0501394">The Kinematics of Thick Disks in External Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2005 ApJ </a> 
+
+      - <a href="http://xxx.lanl.gov/abs/astro-ph/0508460">Structural Parameters of Thin and Thick Disks in Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2006 AJ </a> 
+
+      - <a href="http://xxx.lanl.gov/abs/0805.4197">Lick Indices in the Thin and Thick Disks of Edge-On Disk Galaxies, Peter Yoachim & Julianne J. Dalcanton, 2008 ApJ</a> 
+
+      - <a href="http://arxiv.org/abs/0804.3966">The Kinematics of Thick Disks in Nine External Galaxies, Peter Yoachim &Julianne J. Dalcanton, 2008 ApJ </a> 
+ 

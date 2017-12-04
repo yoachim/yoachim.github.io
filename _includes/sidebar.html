@@ -1,11 +1,11 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
+      <h2>
         <a href="{{ site.baseurl }}/">
           {{ site.title }}
         </a>
-      </h1>
+      </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -27,6 +27,7 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="http://staff.washington.edu/yoachim/">Work Page</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/blargh">Blargh</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

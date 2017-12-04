@@ -2,10 +2,11 @@
 permalink:        pretty
 
 # Setup
-title:            Peter's Blargh
+title:            Peter Yoachim
 tagline:          where I calculate things for fun
 url:              http://yoachim.github.io/
 paginate:         5
+paginate_path:    "/blargh/page:num"
 baseurl:          
 author:
   name:           Peter Yoachim
