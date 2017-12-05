@@ -73,6 +73,19 @@
 
     - Stellar population fitting
 
+# - Name: Atmosphere Throughput
+#   Image: ""
+#   Caption: ""
+#   repoLink: ""
+#   Text: >
+#      Observed a series of standard stars to measure the atmospheric throughput as a function of time and location. A precursor for how the LSST
+#      calibration telescope could work.
+
+
+#      - Observations with APO 3.5m telescope
+
+#      - Various atmospheric radiative transfer codes
+
 - Name: OpSim Scheduler Analysis
   Image: /assets/projects/minion_alt_az.png
   Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
@@ -202,8 +215,7 @@
   Caption: Cepheid light curves fit with templates.
   repoLink: " "
   Text: >
-    I had some fun making Cepheid light curve templates.  Unfortunately, I wrote it all in IDL. It would be great if
-    someone wanted to port this over to python!
+    Generated Cepheid light curve templates that were then used on Hubble Space Telescope observations. Written in IDL, would be nice to port over to Python.
 
 
     - Machine Learning: Principal Component Analysis of time series data
