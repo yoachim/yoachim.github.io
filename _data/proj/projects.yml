@@ -4,7 +4,7 @@
   repoLink: on [github](https://github.com/lsst/sims_featureScheduler)
   Text: >
      Working with collaborators in Computer Science and Operations Research, I developed a new telescope 
-     scheduling framework capable of intelligently observing 2.5 million exposures over a 10-year survey.
+     scheduling framework capable of intelligently observing 2 million exposures over a 10-year survey.
      
 
      - Apply Operations Research techniques to telescope scheduling
@@ -12,7 +12,10 @@
      - Differential Evolution optimization
 
      - Python, numpy, scipy, sqlite
-     
+
+
+     Paper [in prep](https://github.com/elahesadatnaghib/FB-Scheduler-Paper).
+
 
 - Name: Gaia-LSST Calibration
   Image: /assets/projects/kuruz_logg.png
@@ -37,7 +40,7 @@
      This is a project to use an all-sky camera to track the current position of clouds and predict their future motion.
 
 
-     - All sky camera photometric pipeline with astropy and healpy
+     - All sky camera photometric pipeline using Astropy, Healpy, and Pandas.
 
      - 2D Fourier space analysis
 
@@ -73,6 +76,8 @@
 
     - Stellar population fitting
 
+    - Statistical comparison using the SDSS database
+
 # - Name: Atmosphere Throughput
 #   Image: ""
 #   Caption: ""
@@ -86,7 +91,7 @@
 
 #      - Various atmospheric radiative transfer codes
 
-- Name: OpSim Scheduler Analysis
+- Name: Survey Analysis and Visulization
   Image: /assets/projects/minion_alt_az.png
   Caption: Visualizing how LSST will point over 10 years. In this particular simulation, the telescope tended to get stuck observing things at high airmass in the west. We'll fix that before the survey starts.
   repoLink: >
@@ -96,11 +101,11 @@
     A typical 10-year LSST survey includes 2.5 million visits.  
 
 
-    - python, healpy, numpy, matplotlib, SQL, sqlite
+    - Python, healpy, numpy, matplotlib, SQL, sqlite
 
-    - automated analysis and data visualization package
+    - Automated analysis and data visualization package
 
-    - tornado web framework
+    - Tornado web framework
 
     - Collaborate with scientists to develop science performance metrics
 
