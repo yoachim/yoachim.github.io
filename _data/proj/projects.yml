@@ -11,10 +11,12 @@
 
      - Differential Evolution optimization
 
+     - AI using Markov Decision Processes
+
      - Python, numpy, scipy, sqlite
 
 
-     Paper [in prep](https://github.com/elahesadatnaghib/FB-Scheduler-Paper).
+     Results published in [Naghib, et al. 2018](https://arxiv.org/abs/1810.04815).
 
 
 - Name: Gaia-LSST Calibration
@@ -129,6 +131,9 @@
     - High volume database scraping of ADS
 
     - Python, Numpy, Pandas, matplotlib
+
+
+    Techinique expanded to other fields in [this paper](https://www.pnas.org/content/115/50/12616)
 
 
 - Name: Side Projects
