@@ -18,6 +18,13 @@
 
      Results published in [Naghib, et al. 2018](https://arxiv.org/abs/1810.04815).
 
+- Name: Satellite Dodging
+  Image: /assets/projects/sat_streaks.png
+  Caption: Trails that would be left on an all-sky image by a satellite mega-constellation.
+  repoLink: on [github](https://github.com/yoachim/satellite_collisions)
+  Text: >
+     Studied the impact of proposed satellite mega-constellations on the LSST observing strategy. 
+
 
 - Name: Narrow Band Imaging
   Image: /assets/projects/input_stars.png
