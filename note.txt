@@ -6,3 +6,9 @@ github uses bundler, so the command to build and serve is:
 bundle exec jekyll serve
 
 
+Looks like it was easy to install on M2 mac chip with:
+> gem install --user-install bundler jekyll
+> sudo bundle install
+> sudo gem update --system 3.2.3
+
+No need for homebrew or anything!
