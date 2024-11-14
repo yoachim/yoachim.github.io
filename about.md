@@ -9,4 +9,4 @@ title: About
 Every now and then I'll make a post of a random calculation. Larger projects I've worked on over the years are listed on the <a href="/projects">profile</a> page.
 </p>
 
-And of course, [follow me](https://twitter.com/PeterYoachim) on twitter
+And of course, [follow me](https://bsky.app/profile/ianpaulfreeley.bsky.social) on Bluesky
